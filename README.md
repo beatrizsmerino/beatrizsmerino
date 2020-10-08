@@ -5,3 +5,9 @@
 <h3 align="center">
 	Frontend developer
 </h3>
+
+<p align='center'>
+	<a href="https://www.linkedin.com/in/beatrizsmerino/">
+		<img alt="Beatriz`s Linkedin" width="30px" src="images/social-media/linkedin.gif" />
+	</a>
+</p>
