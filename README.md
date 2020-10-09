@@ -119,13 +119,19 @@
 <h3>Learn and share code</h3>
 <p>
 	<img alt="Udemy" src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=Udemy&logoColor=white" />
-	<img alt="CodePen"
-		src="https://img.shields.io/badge/-Codepen-47cf73?&style=for-the-badge&logo=Codepen&logoColor=ffffff" />
-	<img alt="CodeSandBox"
+	<a href="https://codepen.io/beatrizsmerino/">
+		<img alt="CodePen" src="https://img.shields.io/badge/-Codepen-47cf73?&style=for-the-badge&logo=Codepen&logoColor=ffffff" />
+	</a>
+	<a href="https://codesandbox.io/u/beatrizsmerino">
+		<img alt="CodeSandBox"
 		src="https://img.shields.io/badge/-CodeSandBox-204056?style=for-the-badge&logo=CodeSandBox&logoColor=white" />
-	<img alt="Github"
-		src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-	<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=white" />
+	</a>
+	<a href="https://github.com/beatrizsmerino">
+		<img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+	</a>
+	<a href="https://stackoverflow.com/users/10855837/beatrizsmerino">
+		<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=white" />
+	</a>
 </p>
 
 <h3>Hobbies</h3>
