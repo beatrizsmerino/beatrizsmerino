@@ -16,7 +16,7 @@
 
 <p align='center'>
 	<a href="https://www.linkedin.com/in/beatrizsmerino/">
-		<img alt="Beatriz`s Linkedin" width="30px" src="images/social-media/linkedin.gif"/>
+		<img src="images/social-media/linkedin.gif" alt="Beatriz`s Linkedin" width="30px" />
 	</a>
 </p>
 
@@ -162,4 +162,10 @@
 	<a href="https://github.com/beatrizsmerino/">
 		<img src="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&theme=vue-dark&show_icons=true" alt="Beatriz's GitHub Stats"/>
 	</a>
+</p>
+
+<h2>Hacktoberfest</h2>
+
+<p>
+	<img src="images/hacktoberfest/hacktoberfest.png" alt="Hacktoberfest 2019" width="150px"/>
 </p>
