@@ -167,5 +167,6 @@
 <h2>Hacktoberfest</h2>
 
 <p>
-	<img src="images/hacktoberfest/hacktoberfest.png" alt="Hacktoberfest 2019" width="150px"/>
+	<img src="images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" width="150px"/>
+	<img src="images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" width="150px"/>
 </p>
