@@ -9,14 +9,14 @@
 <p>
 	Welcome to my profile! <br>
 	I'm Beatriz Sopeña Merino, Fullstack web developer and grafic designer from <img width="15px" src="https://www.flaticon.com/svg/static/icons/svg/323/323365.svg" alt="Spain"> Madrid, Spain.<br>
-	Currently, I am working from home for the <a href="https://www.webpac.com/" target="_blank">Webpac</a> company as Frontend developer, I am finishing a <a href="https://github.com/beatrizsmerino/exercises-javascript-node" target="_blank">Master of Javascript and Node JS in Fizticia</a> and working in other <a href="https://www.crcanine.com/" target="_blank">projects as a freelance</a>.
+	Currently, I am working from home for the <a href="https://www.webpac.com/" target="_blank" rel="noopener noreferrer">Webpac</a> company as Frontend developer, I am finishing a <a href="https://github.com/beatrizsmerino/exercises-javascript-node" target="_blank" rel="noopener noreferrer">Master of Javascript and Node JS in Fizticia</a> and working in other <a href="https://www.crcanine.com/" target="_blank" rel="noopener noreferrer">projects as a freelance</a>.
 	<br>
-	I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
+	I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/" target="_blank" rel="noopener noreferrer">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
 </p>
 
 <p align='center'>
-	<a href="https://www.linkedin.com/in/beatrizsmerino/" target="_blank">
-		<img src="images/social-media/linkedin.gif" alt="Beatriz`s Linkedin" width="30px" target="_blank"/>
+	<a href="https://www.linkedin.com/in/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
+		<img src="images/social-media/linkedin.gif" alt="Beatriz`s Linkedin" width="30px" target="_blank" rel="noopener noreferrer"/>
 	</a>
 </p>
 
@@ -119,17 +119,17 @@
 <h3>Learn and share code</h3>
 <p>
 	<img alt="Udemy" src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=Udemy&logoColor=white" />
-	<a href="https://codepen.io/beatrizsmerino/" target="_blank">
+	<a href="https://codepen.io/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
 		<img alt="CodePen" src="https://img.shields.io/badge/-Codepen-47cf73?&style=for-the-badge&logo=Codepen&logoColor=ffffff" />
 	</a>
-	<a href="https://codesandbox.io/u/beatrizsmerino" target="_blank">
+	<a href="https://codesandbox.io/u/beatrizsmerino" target="_blank" rel="noopener noreferrer">
 		<img alt="CodeSandBox"
 		src="https://img.shields.io/badge/-CodeSandBox-204056?style=for-the-badge&logo=CodeSandBox&logoColor=white" />
 	</a>
-	<a href="https://github.com/beatrizsmerino" target="_blank">
+	<a href="https://github.com/beatrizsmerino" target="_blank" rel="noopener noreferrer">
 		<img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 	</a>
-	<a href="https://stackoverflow.com/users/10855837/beatrizsmerino" target="_blank">
+	<a href="https://stackoverflow.com/users/10855837/beatrizsmerino" target="_blank" rel="noopener noreferrer">
 		<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=white" />
 	</a>
 </p>
@@ -156,10 +156,10 @@
 <h2>GitHub Stats</h2>
 
 <p>
-	<a href="https://github.com/beatrizsmerino/" target="_blank">
+	<a href="https://github.com/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&hide=html&theme=vue-dark&show_icons=true" alt="Beatriz's GitHub Stats: Top programming languages"/>
 	</a>
-	<a href="https://github.com/beatrizsmerino/" target="_blank">
+	<a href="https://github.com/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
 		<img src="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&theme=vue-dark&show_icons=true" alt="Beatriz's GitHub Stats"/>
 	</a>
 </p>
