@@ -23,7 +23,7 @@
 	<div align="center">
 		<p>
 			<a href="https://www.linkedin.com/in/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
-				<img src="images/social-media/linkedin.gif" alt="Beatriz`s Linkedin" width="30px"/>
+				<img src="./README/images/social-media/linkedin.gif" alt="Beatriz`s Linkedin" width="30px"/>
 			</a>
 		</p>
 	</div>
@@ -205,7 +205,7 @@
 		Hacktoberfest
 	</h2>
 	<p>
-		<img src="images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" width="150px"/>
-		<img src="images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" width="150px"/>
+		<img src="./README/images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" width="150px"/>
+		<img src="./README/images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" width="150px"/>
 	</p>
 </div>
