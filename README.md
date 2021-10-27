@@ -13,7 +13,7 @@
 		<p>
 			Welcome to my profile!
 			<br>
-			I'm Beatriz Sopeña Merino, Fullstack web developer and grafic designer from <img src="https://www.flaticon.com/svg/static/icons/svg/323/323365.svg" alt="Spain" width="15px"> Madrid, Spain.
+			I'm Beatriz Sopeña Merino, Fullstack web developer and grafic designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15px"> Madrid, Spain.
 			<br>
 			Currently, I am working from home for the <a href="https://www.webpac.com/" target="_blank" rel="noopener noreferrer">Webpac</a> company as Frontend developer, I am finishing a <a href="https://github.com/beatrizsmerino/exercises-javascript-node" target="_blank" rel="noopener noreferrer">Master of Javascript and Node JS in Fizticia</a> and working in other <a href="https://www.crcanine.com/" target="_blank" rel="noopener noreferrer">projects as a freelance</a>.
 			<br>
