@@ -23,7 +23,7 @@
 	<div align="center">
 		<p>
 			<a href="https://www.linkedin.com/in/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
-				<img src="./README/images/social-media/linkedin.gif" alt="Beatriz`s Linkedin" width="30px"/>
+				<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30px"/>
 			</a>
 		</p>
 	</div>
