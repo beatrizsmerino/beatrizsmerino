@@ -34,7 +34,7 @@
 	<h2>
 		Skills
 	</h2>
-	<div>
+	<div id="frontend-languages">
 		<h3>
 			Frontend languages
 		</h3>
@@ -49,7 +49,7 @@
 			<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff" alt="Markdown" />
 		</p>
 	</div>
-	<div>
+	<div id="project-configuration">
 		<h3>
 			Project configuration
 		</h3>
@@ -93,7 +93,7 @@
 			<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logo=Monday&logoColor=ffffff" alt="Monday" />
 		</p>
 	</div>
-	<div id="backend">
+	<div id="backend-php">
 		<h3>
 			Backend PHP
 		</h3>
@@ -104,7 +104,7 @@
 			<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=ffffff" alt="MAMP" />
 		</p>
 	</div>
-	<div id="editors">
+	<div id="code-editors">
 		<h3>
 			Code editors
 		</h3>
@@ -116,7 +116,7 @@
 			<img src="https://img.shields.io/badge/-Sublime Text-222222?style=for-the-badge&logo=Sublime+Text&logoColor=FF9800" alt="Sublime Text" />
 		</p>
 	</div>
-	<div id="tools">
+	<div id="design-tools">
 		<h3>
 			Design tools
 		</h3>
