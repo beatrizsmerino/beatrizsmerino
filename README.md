@@ -94,6 +94,7 @@
 			<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FFFFFF" alt="ESLint" />
 			<img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000" alt="Babel" />
 			<img src="https://img.shields.io/badge/-stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" alt="Stylelint" />
+			<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=333333" alt="Webpack" />
 		</p>
 	</div>
 	<div id="task-runners">
@@ -129,6 +130,7 @@
 			<img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack" />
 			<img src="https://img.shields.io/badge/-Trello-2D70C1?style=for-the-badge&logo=Trello&logoColor=FFFFFF" alt="Trello" />
 			<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=FFFFFF" alt="Excel" />
+			<img src="https://img.shields.io/badge/-Hootsuite-143059?style=for-the-badge&logo=Hootsuite&logoColor=FFFFFF" alt="Hootsuite" />
 		</p>
 	</div>
 	<div id="code-editors">
