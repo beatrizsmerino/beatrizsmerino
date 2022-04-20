@@ -94,6 +94,7 @@
 		Project management
 	</h3>
 	<p>
+		<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=ffffff" alt="Excel" />
 		<img src="https://img.shields.io/badge/-Trello-2D70C1?style=for-the-badge&logo=Trello&logoColor=ffffff" alt="Trello" />
 		<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logo=Monday&logoColor=ffffff" alt="Monday" />
 	</p>
