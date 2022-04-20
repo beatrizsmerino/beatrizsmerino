@@ -118,6 +118,7 @@
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="NPM" />
+			<img src="https://img.shields.io/badge/-Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=333333" alt="Homebrew" />
 			<img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" alt="Bash" />
 			<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=FFFFFF" alt="PowerShell" />
 			<img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=FFFFFF" alt="Nodejs" />
@@ -159,6 +160,19 @@
 			<img src="https://img.shields.io/badge/-Netbeans-1B6AC6?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=FFFFFF" alt="Netbeans" />
 			<img src="https://img.shields.io/badge/-Sublime Text-222222?style=for-the-badge&logo=Sublime+Text&logoColor=FF9800" alt="Sublime Text" />
 			<img src="https://img.shields.io/badge/-EditPlus-F95635?style=for-the-badge&logoColor=FFFFFF" alt="EditPlus" />
+		</p>
+	</div>
+	<div id="browsers">
+		<h3>
+			Browsers
+		</h3>
+		<p>
+			<img src="https://img.shields.io/badge/-Internet Explorer-0076D6?style=for-the-badge&logo=InternetExplorer&logoColor=FFFFFF" alt="Internet Explorer" />
+			<img src="https://img.shields.io/badge/-Microsoft Edge-0078D7?style=for-the-badge&logo=MicrosoftEdge&logoColor=FFFFFF" alt="Microsoft Edge" />
+			<img src="https://img.shields.io/badge/-Google Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=FFFFFF" alt="Google Chrome" />
+			<img src="https://img.shields.io/badge/-Firefox Browser-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=FFFFFF" alt="Firefox Browser" />
+			<img src="https://img.shields.io/badge/-Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=FFFFFF" alt="Opera" />
+			<img src="https://img.shields.io/badge/-Safari-000000?style=for-the-badge&logo=Safari&logoColor=FFFFFF" alt="Safari" />
 		</p>
 	</div>
 	<div id="operating-system">
