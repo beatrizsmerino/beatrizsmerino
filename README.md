@@ -48,6 +48,17 @@
 			<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=ffffff" alt="JQuery" />
 		</p>
 	</div>
+		<div id="backend-php">
+		<h3>
+			Backend PHP
+		</h3>
+		<p>
+			<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=ffffff" alt="PHP7" />
+			<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=ffffff" alt="MySQL" />
+			<img src="https://img.shields.io/badge/-Joomla-2E739E?style=for-the-badge&logo=Joomla&logoColor=ffffff" alt="Joomla" />
+			<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=ffffff" alt="MAMP" />
+		</p>
+	</div>
 	<div id="project-configuration">
 		<h3>
 			Documentation
@@ -99,17 +110,6 @@
 			<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=ffffff" alt="Excel" />
 			<img src="https://img.shields.io/badge/-Trello-2D70C1?style=for-the-badge&logo=Trello&logoColor=ffffff" alt="Trello" />
 			<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logo=Monday&logoColor=ffffff" alt="Monday" />
-		</p>
-	</div>
-	<div id="backend-php">
-		<h3>
-			Backend PHP
-		</h3>
-		<p>
-			<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=ffffff" alt="PHP7" />
-			<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=ffffff" alt="MySQL" />
-			<img src="https://img.shields.io/badge/-Joomla-2E739E?style=for-the-badge&logo=Joomla&logoColor=ffffff" alt="Joomla" />
-			<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=ffffff" alt="MAMP" />
 		</p>
 	</div>
 	<div id="code-editors">
