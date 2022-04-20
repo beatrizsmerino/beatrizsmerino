@@ -107,9 +107,9 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=ffffff" alt="PHP7" />
-		<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=00758F" alt="MySQL" />
+		<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=ffffff" alt="MySQL" />
 		<img src="https://img.shields.io/badge/-Joomla-2E739E?style=for-the-badge&logo=Joomla&logoColor=ffffff" alt="Joomla" />
-		<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=tool&logoColor=707072" alt="MAMP" />
+		<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=tool&logoColor=ffffff" alt="MAMP" />
 	</p>
 </div>
 
