@@ -122,7 +122,7 @@
 		<img src="https://img.shields.io/badge/-Visual Studio Code-005BA4?style=for-the-badge&logo=Visual+Studio+Code&logoColor=ffffff" alt="Visual Studio Code" />
 		<img src="https://img.shields.io/badge/-PhpStorm-7A59F7?style=for-the-badge&logo=JetBrains&logoColor=ffffff" alt="PhpStorm" />
 		<img src="https://img.shields.io/badge/-Atom-5CB4AF?style=for-the-badge&logo=Atom&logoColor=ffffff" alt="Atom" />
-		<img src="https://img.shields.io/badge/-Netbeans-1B6AC6?style=for-the-badge&logo=Apache-Netbeans&logoColor=ffffff" alt="Netbeans" />
+		<img src="https://img.shields.io/badge/-Netbeans-1B6AC6?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=ffffff" alt="Netbeans" />
 		<img src="https://img.shields.io/badge/-Sublime Text-222222?style=for-the-badge&logo=Sublime+Text&logoColor=FF9800" alt="Sublime Text" />
 	</p>
 </div>
