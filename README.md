@@ -34,6 +34,21 @@
 	<h2>
 		Skills
 	</h2>
+	<div id="design">
+		<h3>
+			Design
+		</h3>
+		<p>
+			<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=FFFFFF" alt="Photoshop" />
+			<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=FFFFFF" alt="Illustrator" />
+			<img src="https://img.shields.io/badge/-InDesign-EE3D8F?style=for-the-badge&logo=Adobe-InDesign&logoColor=FFFFFF" alt="InDesign" />
+			<br>
+			<img src="https://img.shields.io/badge/-SVG-F6AB3A?style=for-the-badge&logo=svg&logoColor=000000" alt="SVG" />
+			<img src="https://img.shields.io/badge/-Icomoon-825794?&style=for-the-badge&logo=Icomoon&logoColor=FFFFFF" alt="Icomoon" />
+			<br>
+			<img src="https://img.shields.io/badge/-Figma-F24E1D?&style=for-the-badge&logo=Figma&logoColor=FFFFFF" alt="Figma" />
+		</p>
+	</div>
 	<div id="frontend">
 		<h3>
 			Frontend
@@ -144,21 +159,6 @@
 			<img src="https://img.shields.io/badge/-Netbeans-1B6AC6?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=FFFFFF" alt="Netbeans" />
 			<img src="https://img.shields.io/badge/-Sublime Text-222222?style=for-the-badge&logo=Sublime+Text&logoColor=FF9800" alt="Sublime Text" />
 			<img src="https://img.shields.io/badge/-EditPlus-F95635?style=for-the-badge&logoColor=FFFFFF" alt="EditPlus" />
-		</p>
-	</div>
-	<div id="design">
-		<h3>
-			Design
-		</h3>
-		<p>
-			<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=FFFFFF" alt="Photoshop" />
-			<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=FFFFFF" alt="Illustrator" />
-			<img src="https://img.shields.io/badge/-InDesign-EE3D8F?style=for-the-badge&logo=Adobe-InDesign&logoColor=FFFFFF" alt="InDesign" />
-			<br>
-			<img src="https://img.shields.io/badge/-SVG-F6AB3A?style=for-the-badge&logo=svg&logoColor=000000" alt="SVG" />
-			<img src="https://img.shields.io/badge/-Icomoon-825794?&style=for-the-badge&logo=Icomoon&logoColor=FFFFFF" alt="Icomoon" />
-			<br>
-			<img src="https://img.shields.io/badge/-Figma-F24E1D?&style=for-the-badge&logo=Figma&logoColor=FFFFFF" alt="Figma" />
 		</p>
 	</div>
 	<div id="operating-system">
