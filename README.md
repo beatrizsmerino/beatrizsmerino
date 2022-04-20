@@ -62,7 +62,7 @@
 			Backend
 		</h3>
 		<p>
-			<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF" alt="Firebase" />
+			<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333333" alt="Firebase" />
 			<br>
 			<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=FFFFFF" alt="PHP7" />
 			<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" alt="MySQL" />
