@@ -40,8 +40,10 @@
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+			<img src="https://img.shields.io/badge/-JADE/PUG-A86454?style=for-the-badge&logo=Pug&logoColor=FFFFFF" alt="Jade/Pug" />
 			<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
 			<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF" alt="SASS/SCSS" />
+			<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
 			<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
 		</p>
 		<div>
@@ -60,6 +62,7 @@
 					<img src="https://img.shields.io/badge/-Vuex-3FB280?style=for-the-badge&logo=Vuex&logoColor=FFFFFF" alt="Vuex" />
 					<img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=FFFFFF" alt="Nuxtjs" />
 					<img src="https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF" alt="Vuetify" />
+					<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
 				</p>
 			</div>
 		</div>
@@ -79,7 +82,9 @@
 			<p>
 				<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=FFFFFF" alt="PHP7" />
 				<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" alt="MySQL" />
+				<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFFFFF" alt="Laravel" />
 				<img src="https://img.shields.io/badge/-Joomla-2E739E?style=for-the-badge&logo=Joomla&logoColor=FFFFFF" alt="Joomla" />
+				<img src="https://img.shields.io/badge/-CKEditor 4-0287D0?style=for-the-badge&logo=CKEditor+4&logoColor=FFFFFF" alt="CKEditor+4" />
 				<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=FFFFFF" alt="MAMP" />
 			</p>
 		</div>
@@ -99,6 +104,7 @@
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=FFFFFF" alt="Prettier" />
+			<img src="https://img.shields.io/badge/-EditorConfig-333333?style=for-the-badge&logo=EditorConfig&logoColor=FEFEFE" alt="EditorConfig" />
 			<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FFFFFF" alt="ESLint" />
 			<img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000" alt="Babel" />
 			<img src="https://img.shields.io/badge/-stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" alt="Stylelint" />
@@ -133,6 +139,8 @@
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logoColor=FFFFFF" alt="Monday" />
+			<img src="https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=Skype&logoColor=FFFFFF" alt="Skype" />
+			<img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack" />
 			<img src="https://img.shields.io/badge/-Trello-2D70C1?style=for-the-badge&logo=Trello&logoColor=FFFFFF" alt="Trello" />
 			<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=FFFFFF" alt="Excel" />
 		</p>
@@ -147,6 +155,7 @@
 			<img src="https://img.shields.io/badge/-Atom-5CB4AF?style=for-the-badge&logo=Atom&logoColor=FFFFFF" alt="Atom" />
 			<img src="https://img.shields.io/badge/-Netbeans-1B6AC6?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=FFFFFF" alt="Netbeans" />
 			<img src="https://img.shields.io/badge/-Sublime Text-222222?style=for-the-badge&logo=Sublime+Text&logoColor=FF9800" alt="Sublime Text" />
+			<img src="https://img.shields.io/badge/-EditPlus-F95635?style=for-the-badge&logoColor=FFFFFF" alt="EditPlus" />
 		</p>
 	</div>
 	<div id="design-tools">
@@ -178,6 +187,7 @@
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=Udemy&logoColor=FFFFFF" alt="Udemy" />
+			<img src="https://img.shields.io/badge/-Dependabot-025E8C?style=for-the-badge&logo=Dependabot&logoColor=FFFFFF" alt="Dependabot" />
 			<a href="https://codepen.io/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
 				<img src="https://img.shields.io/badge/-Codepen-47cf73?&style=for-the-badge&logo=Codepen&logoColor=FFFFFF" alt="CodePen" />
 			</a>
@@ -197,6 +207,7 @@
 			Hobbies
 		</h3>
 		<p>
+			<img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=FFFFFF" alt="YouTube" />
 			<img src="https://img.shields.io/badge/-Netflix-E50914?&style=for-the-badge&logo=netflix&logoColor=FFFFFF" alt="Netflix" />
 			<img src="https://img.shields.io/badge/-HBO-000000?&style=for-the-badge&logo=HBO&logoColor=FFFFFF" alt="HBO" />
 			<img src="https://img.shields.io/badge/-DisneyPlus-214396?&style=for-the-badge&logo=Disney&logoColor=FFFFFF" alt="Disney Plus" />
