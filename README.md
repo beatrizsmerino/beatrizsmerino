@@ -48,9 +48,9 @@
 			<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=ffffff" alt="JQuery" />
 		</p>
 	</div>
-		<div id="backend-php">
+	<div id="backend-languages">
 		<h3>
-			Backend PHP
+			Backend languages
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=ffffff" alt="PHP7" />
