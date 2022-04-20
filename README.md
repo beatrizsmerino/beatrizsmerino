@@ -45,8 +45,6 @@
 		<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
 		<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=ffffff" alt="Vuejs" />
 		<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=ffffff" alt="JQuery" />
-		<img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=ffffff" alt="Bash" />
-		<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=ffffff" alt="PowerShell" />
 		<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff" alt="Markdown" />
 	</p>
 </div>
@@ -71,6 +69,8 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff" alt="NPM" />
+		<img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=ffffff" alt="Bash" />
+		<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=ffffff" alt="PowerShell" />
 		<img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff" alt="Nodejs" />
 		<img src="https://img.shields.io/badge/-Gulp-D34A47?style=for-the-badge&logo=gulp&logoColor=ffffff" alt="Gulp" />
 		<img src="https://img.shields.io/badge/-Prepros-00AACD?style=for-the-badge&logo=prepros&logoColor=ffffff" alt="Prepros" />
