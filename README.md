@@ -35,7 +35,7 @@
 		Skills
 	</h2>
 	<h3>
-		Program languages
+		Frontend languages
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
