@@ -43,14 +43,23 @@
 		<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SASS/SCSS" />
 		<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
 		<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
-		<img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000" alt="Babel" />
 		<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=ffffff" alt="Vuejs" />
 		<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=ffffff" alt="JQuery" />
-		<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=ffffff" alt="ESLint" />
-		<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=ffffff" alt="Prettier" />
 		<img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=ffffff" alt="Bash" />
 		<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=ffffff" alt="PowerShell" />
 		<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff" alt="Markdown" />
+	</p>
+</div>
+
+
+<div>
+	<h3>
+		Project configuration
+	</h3>
+	<p>
+		<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=ffffff" alt="Prettier" />
+		<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=ffffff" alt="ESLint" />
+		<img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000" alt="Babel" />
 	</p>
 </div>
 
