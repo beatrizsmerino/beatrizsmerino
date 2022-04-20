@@ -43,7 +43,6 @@
 			<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
 			<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SASS/SCSS" />
 			<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
-			<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
 			<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=ffffff" alt="Vuejs" />
 			<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=ffffff" alt="JQuery" />
 		</p>
@@ -52,12 +51,21 @@
 		<h3>
 			Backend languages
 		</h3>
-		<p>
-			<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=ffffff" alt="PHP7" />
-			<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=ffffff" alt="MySQL" />
-			<img src="https://img.shields.io/badge/-Joomla-2E739E?style=for-the-badge&logo=Joomla&logoColor=ffffff" alt="Joomla" />
-			<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=ffffff" alt="MAMP" />
-		</p>
+		<div id="backend-languages-js">
+			<h4>JS</h4>
+			<p>
+				<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
+			</p>
+		</div>
+		<div id="backend-languages-php">
+			<h4>PHP</h4>
+			<p>
+				<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=ffffff" alt="PHP7" />
+				<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=ffffff" alt="MySQL" />
+				<img src="https://img.shields.io/badge/-Joomla-2E739E?style=for-the-badge&logo=Joomla&logoColor=ffffff" alt="Joomla" />
+				<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=ffffff" alt="MAMP" />
+			</p>
+		</div>
 	</div>
 	<div id="project-configuration">
 		<h3>
