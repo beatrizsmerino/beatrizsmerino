@@ -90,7 +90,7 @@
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF" alt="Markdown" />
-			<img src="https://img.shields.io/badge/-JSDoc-006FBB?style=for-the-badge&logo=JSDoc&logoColor=FFFFFF" alt="JSDoc" />
+			<img src="https://img.shields.io/badge/-JSDoc-006FBB?style=for-the-badge&logoColor=FFFFFF" alt="JSDoc" />
 		</p>
 	</div>
 	<div id="project-configuration">
@@ -114,7 +114,7 @@
 			<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=FFFFFF" alt="PowerShell" />
 			<img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=FFFFFF" alt="Nodejs" />
 			<img src="https://img.shields.io/badge/-Gulp-D34A47?style=for-the-badge&logo=gulp&logoColor=FFFFFF" alt="Gulp" />
-			<img src="https://img.shields.io/badge/-Prepros-00AACD?style=for-the-badge&logo=prepros&logoColor=FFFFFF" alt="Prepros" />
+			<img src="https://img.shields.io/badge/-Prepros-00AACD?style=for-the-badge&logoColor=FFFFFF" alt="Prepros" />
 		</p>
 	</div>
 	<div id="version-control">
@@ -133,8 +133,8 @@
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=FFFFFF" alt="Excel" />
+			<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logoColor=FFFFFF" alt="Monday" />
 			<img src="https://img.shields.io/badge/-Trello-2D70C1?style=for-the-badge&logo=Trello&logoColor=FFFFFF" alt="Trello" />
-			<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logo=Monday&logoColor=FFFFFF" alt="Monday" />
 		</p>
 	</div>
 	<div id="code-editors">
