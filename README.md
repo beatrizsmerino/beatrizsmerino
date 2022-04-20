@@ -43,9 +43,26 @@
 			<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
 			<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SASS/SCSS" />
 			<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
-			<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=ffffff" alt="Vuejs" />
-			<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=ffffff" alt="JQuery" />
 		</p>
+		<div>
+			<h4>Libraries</h4>
+			<p>
+				<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=ffffff" alt="JQuery" />
+				<img src="https://img.shields.io/badge/-Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=ffffff" alt="Swiper" />
+			</p>
+		</div>
+		<div>
+			<h4>Frameworks</h4>
+			<div>
+				<h5>Vue</h5>
+				<p>
+					<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=ffffff" alt="Vuejs" />
+					<img src="https://img.shields.io/badge/-Vuex-3FB280?style=for-the-badge&logo=Vuex&logoColor=ffffff" alt="Vuex" />
+					<img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=ffffff" alt="Nuxtjs" />
+					<img src="https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=ffffff" alt="Vuetify" />
+				</p>
+			</div>
+		</div>
 	</div>
 	<div id="backend-languages">
 		<h3>
