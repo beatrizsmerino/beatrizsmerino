@@ -60,6 +60,7 @@
 		<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=ffffff" alt="Prettier" />
 		<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=ffffff" alt="ESLint" />
 		<img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000" alt="Babel" />
+		<img src="https://img.shields.io/badge/-stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=ffffff" alt="Stylelint" />
 	</p>
 </div>
 
