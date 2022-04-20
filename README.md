@@ -34,60 +34,46 @@
 	<h2>
 		Skills
 	</h2>
-	<div id="frontend-languages">
+	<div id="frontend">
 		<h3>
-			Frontend languages
+			Frontend
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
 			<img src="https://img.shields.io/badge/-JADE/PUG-A86454?style=for-the-badge&logo=Pug&logoColor=FFFFFF" alt="Jade/Pug" />
+			<br>
 			<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
 			<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF" alt="SASS/SCSS" />
 			<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
+			<br>
 			<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
-		</p>
-		<div>
-			<h4>Libraries</h4>
-			<p>
-				<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=FFFFFF" alt="JQuery" />
-				<img src="https://img.shields.io/badge/-Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=FFFFFF" alt="Swiper" />
-			</p>
-		</div>
-		<div>
-			<h4>Frameworks</h4>
-			<div>
-				<h5>Vue</h5>
-				<p>
-					<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=FFFFFF" alt="Vuejs" />
-					<img src="https://img.shields.io/badge/-Vuex-3FB280?style=for-the-badge&logo=Vuex&logoColor=FFFFFF" alt="Vuex" />
-					<img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=FFFFFF" alt="Nuxtjs" />
-					<img src="https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF" alt="Vuetify" />
-					<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
-				</p>
-			</div>
+			<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=FFFFFF" alt="JQuery" />
+			<img src="https://img.shields.io/badge/-Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=FFFFFF" alt="Swiper" />
+			<br>
+			<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=FFFFFF" alt="Vuejs" />
+			<img src="https://img.shields.io/badge/-Vuex-3FB280?style=for-the-badge&logo=Vuex&logoColor=FFFFFF" alt="Vuex" />
+			<img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=FFFFFF" alt="Nuxtjs" />
+			<img src="https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF" alt="Vuetify" />
+			<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
 		</div>
 	</div>
-	<div id="backend-languages">
+	<div id="backend">
 		<h3>
-			Backend languages
+			Backend
 		</h3>
-		<div id="backend-languages-js">
-			<h4>JS</h4>
-			<p>
-				<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF" alt="Firebase" />
-			</p>
-		</div>
-		<div id="backend-languages-php">
-			<h4>PHP</h4>
-			<p>
-				<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=FFFFFF" alt="PHP7" />
-				<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" alt="MySQL" />
-				<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFFFFF" alt="Laravel" />
-				<img src="https://img.shields.io/badge/-Joomla-2E739E?style=for-the-badge&logo=Joomla&logoColor=FFFFFF" alt="Joomla" />
-				<img src="https://img.shields.io/badge/-CKEditor 4-0287D0?style=for-the-badge&logo=CKEditor+4&logoColor=FFFFFF" alt="CKEditor+4" />
-				<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=FFFFFF" alt="MAMP" />
-			</p>
-		</div>
+		<p>
+			<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF" alt="Firebase" />
+			<br>
+			<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=FFFFFF" alt="PHP7" />
+			<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" alt="MySQL" />
+			<br>
+			<img src="https://img.shields.io/badge/-CKEditor 4-0287D0?style=for-the-badge&logo=CKEditor+4&logoColor=FFFFFF" alt="CKEditor+4" />
+			<br>
+			<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFFFFF" alt="Laravel" />
+			<img src="https://img.shields.io/badge/-Joomla-2E739E?style=for-the-badge&logo=Joomla&logoColor=FFFFFF" alt="Joomla" />
+			<br>
+			<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=FFFFFF" alt="MAMP" />
+		</p>
 	</div>
 	<div id="project-configuration">
 		<h3>
@@ -158,16 +144,18 @@
 			<img src="https://img.shields.io/badge/-EditPlus-F95635?style=for-the-badge&logoColor=FFFFFF" alt="EditPlus" />
 		</p>
 	</div>
-	<div id="design-tools">
+	<div id="design">
 		<h3>
-			Design tools
+			Design
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=FFFFFF" alt="Photoshop" />
 			<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=FFFFFF" alt="Illustrator" />
 			<img src="https://img.shields.io/badge/-InDesign-EE3D8F?style=for-the-badge&logo=Adobe-InDesign&logoColor=FFFFFF" alt="InDesign" />
+			<br>
 			<img src="https://img.shields.io/badge/-SVG-F6AB3A?style=for-the-badge&logo=svg&logoColor=000000" alt="SVG" />
 			<img src="https://img.shields.io/badge/-Icomoon-825794?&style=for-the-badge&logo=Icomoon&logoColor=FFFFFF" alt="Icomoon" />
+			<br>
 			<img src="https://img.shields.io/badge/-Figma-F24E1D?&style=for-the-badge&logo=Figma&logoColor=FFFFFF" alt="Figma" />
 		</p>
 	</div>
@@ -186,17 +174,19 @@
 			Learn and share code
 		</h3>
 		<p>
-			<img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=Udemy&logoColor=FFFFFF" alt="Udemy" />
+			<a href="https://github.com/beatrizsmerino" target="_blank" rel="noopener noreferrer">
+				<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF" alt="Github" />
+			</a>
 			<img src="https://img.shields.io/badge/-Dependabot-025E8C?style=for-the-badge&logo=Dependabot&logoColor=FFFFFF" alt="Dependabot" />
+			<br>
 			<a href="https://codepen.io/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
 				<img src="https://img.shields.io/badge/-Codepen-47cf73?&style=for-the-badge&logo=Codepen&logoColor=FFFFFF" alt="CodePen" />
 			</a>
 			<a href="https://codesandbox.io/u/beatrizsmerino" target="_blank" rel="noopener noreferrer">
 				<img src="https://img.shields.io/badge/-CodeSandBox-204056?style=for-the-badge&logo=CodeSandBox&logoColor=FFFFFF" alt="CodeSandBox" />
 			</a>
-			<a href="https://github.com/beatrizsmerino" target="_blank" rel="noopener noreferrer">
-				<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF" alt="Github" />
-			</a>
+			<br>
+			<img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=Udemy&logoColor=FFFFFF" alt="Udemy" />
 			<a href="https://stackoverflow.com/users/10855837/beatrizsmerino" target="_blank" rel="noopener noreferrer">
 				<img src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=FFFFFF" alt="Stack Overflow" />
 			</a>
@@ -207,14 +197,17 @@
 			Hobbies
 		</h3>
 		<p>
+			<img src="https://img.shields.io/badge/-Spotify-000000?&style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760" alt="Spotify" />
 			<img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=FFFFFF" alt="YouTube" />
+			<br>
 			<img src="https://img.shields.io/badge/-Netflix-E50914?&style=for-the-badge&logo=netflix&logoColor=FFFFFF" alt="Netflix" />
 			<img src="https://img.shields.io/badge/-HBO-000000?&style=for-the-badge&logo=HBO&logoColor=FFFFFF" alt="HBO" />
 			<img src="https://img.shields.io/badge/-DisneyPlus-214396?&style=for-the-badge&logo=Disney&logoColor=FFFFFF" alt="Disney Plus" />
 			<img src="https://img.shields.io/badge/-Amazon Prime Video-0F79AF?&style=for-the-badge&logo=Amazon&?logoWidth=40&logoColor=FFFFFF" alt="Amazon Prime Video" />
-			<img src="https://img.shields.io/badge/-Spotify-000000?&style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760" alt="Spotify" />
-			<img src="https://img.shields.io/badge/-Nintendo-E60011?&style=for-the-badge&logo=nintendo&logoColor=FFFFFF" alt="Nintendo" />
+			<br>
 			<img src="https://img.shields.io/badge/-Playstation-003791?&style=for-the-badge&logo=Playstation&logoColor=FFFFFF" alt="Playstation" />
+			<img src="https://img.shields.io/badge/-Nintendo-8F8F8F?&style=for-the-badge&logo=nintendo&logoColor=FFFFFF" alt="Nintendo" />
+			<br>
 			<img src="https://img.shields.io/badge/-Fitbit-00B0B9?&style=for-the-badge&logo=Fitbit&logoColor=FFFFFF" alt="Fitbit" />
 		</p>
 	</div>
