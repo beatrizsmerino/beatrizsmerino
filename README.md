@@ -46,7 +46,15 @@
 			<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
 			<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=ffffff" alt="Vuejs" />
 			<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=ffffff" alt="JQuery" />
+		</p>
+	</div>
+	<div id="project-configuration">
+		<h3>
+			Documentation
+		</h3>
+		<p>
 			<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff" alt="Markdown" />
+			<img src="https://img.shields.io/badge/-JSDoc-006FBB?style=for-the-badge&logo=JSDoc&logoColor=ffffff" alt="JSDoc" />
 		</p>
 	</div>
 	<div id="project-configuration">
