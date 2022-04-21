@@ -106,9 +106,11 @@
 		<p>
 			<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=FFFFFF" alt="Prettier" />
 			<img src="https://img.shields.io/badge/-EditorConfig-333333?style=for-the-badge&logo=EditorConfig&logoColor=FEFEFE" alt="EditorConfig" />
+			<br>
 			<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FFFFFF" alt="ESLint" />
 			<img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000" alt="Babel" />
 			<img src="https://img.shields.io/badge/-stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" alt="Stylelint" />
+			<br>
 			<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=333333" alt="Webpack" />
 		</p>
 	</div>
@@ -119,8 +121,10 @@
 		<p>
 			<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="NPM" />
 			<img src="https://img.shields.io/badge/-Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=333333" alt="Homebrew" />
+			<br>
 			<img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" alt="Bash" />
 			<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=FFFFFF" alt="PowerShell" />
+			<br>
 			<img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=FFFFFF" alt="Nodejs" />
 			<img src="https://img.shields.io/badge/-Gulp-D34A47?style=for-the-badge&logo=gulp&logoColor=FFFFFF" alt="Gulp" />
 			<img src="https://img.shields.io/badge/-Prepros-00AACD?style=for-the-badge&logoColor=FFFFFF" alt="Prepros" />
@@ -133,6 +137,7 @@
 		<p>
 			<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="GIT" />
 			<img src="https://img.shields.io/badge/-Git Flow-0288A6?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git Flow" />
+			<br>
 			<img src="https://img.shields.io/badge/-SourceTree-0047B3?style=for-the-badge&logo=Atlassian&logoColor=FFFFFF" alt="SourceTree" />
 		</p>
 	</div>
@@ -144,8 +149,10 @@
 			<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logoColor=FFFFFF" alt="Monday" />
 			<img src="https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=Skype&logoColor=FFFFFF" alt="Skype" />
 			<img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack" />
+			<br>
 			<img src="https://img.shields.io/badge/-Trello-2D70C1?style=for-the-badge&logo=Trello&logoColor=FFFFFF" alt="Trello" />
 			<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=FFFFFF" alt="Excel" />
+			<br>
 			<img src="https://img.shields.io/badge/-Hootsuite-143059?style=for-the-badge&logo=Hootsuite&logoColor=FFFFFF" alt="Hootsuite" />
 		</p>
 	</div>
@@ -156,8 +163,10 @@
 		<p>
 			<img src="https://img.shields.io/badge/-Visual Studio Code-005BA4?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF" alt="Visual Studio Code" />
 			<img src="https://img.shields.io/badge/-PhpStorm-7A59F7?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF" alt="PhpStorm" />
+			<br>
 			<img src="https://img.shields.io/badge/-Atom-5CB4AF?style=for-the-badge&logo=Atom&logoColor=FFFFFF" alt="Atom" />
 			<img src="https://img.shields.io/badge/-Netbeans-1B6AC6?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=FFFFFF" alt="Netbeans" />
+			<br>
 			<img src="https://img.shields.io/badge/-Sublime Text-222222?style=for-the-badge&logo=Sublime+Text&logoColor=FF9800" alt="Sublime Text" />
 			<img src="https://img.shields.io/badge/-EditPlus-F95635?style=for-the-badge&logoColor=FFFFFF" alt="EditPlus" />
 		</p>
@@ -169,8 +178,10 @@
 		<p>
 			<img src="https://img.shields.io/badge/-Internet Explorer-0076D6?style=for-the-badge&logo=InternetExplorer&logoColor=FFFFFF" alt="Internet Explorer" />
 			<img src="https://img.shields.io/badge/-Microsoft Edge-0078D7?style=for-the-badge&logo=MicrosoftEdge&logoColor=FFFFFF" alt="Microsoft Edge" />
+			<br>
 			<img src="https://img.shields.io/badge/-Google Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=FFFFFF" alt="Google Chrome" />
 			<img src="https://img.shields.io/badge/-Firefox Browser-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=FFFFFF" alt="Firefox Browser" />
+			<br>
 			<img src="https://img.shields.io/badge/-Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=FFFFFF" alt="Opera" />
 			<img src="https://img.shields.io/badge/-Safari-000000?style=for-the-badge&logo=Safari&logoColor=FFFFFF" alt="Safari" />
 		</p>
@@ -182,6 +193,7 @@
 		<p>
 			<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF" alt="Windows" />
 			<img src="https://img.shields.io/badge/-Mac-999999?style=for-the-badge&logo=apple&logoColor=FFFFFF" alt="Apple" />
+			<br>
 			<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF" alt="VirtualBox" />
 		</p>
 	</div>
