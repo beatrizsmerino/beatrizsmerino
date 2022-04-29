@@ -67,6 +67,7 @@
 			<br>
 			<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=FFFFFF" alt="JQuery" />
 			<img src="https://img.shields.io/badge/-Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=FFFFFF" alt="Swiper" />
+			<img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FFFFFF" alt="Chart.js" />
 			<br>
 			<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=FFFFFF" alt="Vuejs" />
 			<img src="https://img.shields.io/badge/-Vuex-3FB280?style=for-the-badge&logo=Vuex&logoColor=FFFFFF" alt="Vuex" />
