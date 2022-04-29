@@ -62,8 +62,12 @@
 			<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
 			<br>
 			<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
+			<img src="https://img.shields.io/badge/-Handlebars.js-F0772B?style=for-the-badge&logo=Handlebars.js&logoColor=FFFFFF" alt="Handlebars.js" />
+			<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" alt="TypeScript" />
+			<br>
 			<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=FFFFFF" alt="JQuery" />
 			<img src="https://img.shields.io/badge/-Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=FFFFFF" alt="Swiper" />
+			<img src="https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=FFFFFF" alt="Chart.js" />
 			<br>
 			<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=FFFFFF" alt="Vuejs" />
 			<img src="https://img.shields.io/badge/-Vuex-3FB280?style=for-the-badge&logo=Vuex&logoColor=FFFFFF" alt="Vuex" />
@@ -137,6 +141,8 @@
 		<p>
 			<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="GIT" />
 			<img src="https://img.shields.io/badge/-Git Flow-0288A6?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git Flow" />
+			<br>
+			<img src="https://img.shields.io/badge/-Conventional Commits-FE5196?style=for-the-badge&logo=Conventional+Commits&logoColor=FEFEFE" alt="Conventional Commits" />
 			<br>
 			<img src="https://img.shields.io/badge/-SourceTree-0047B3?style=for-the-badge&logo=Atlassian&logoColor=FFFFFF" alt="SourceTree" />
 		</p>
