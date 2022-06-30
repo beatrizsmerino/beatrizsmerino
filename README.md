@@ -269,8 +269,8 @@
 		Hacktoberfest
 	</h2>
 	<p>
-		<img src="./README/images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" width="150"/>
-		<img src="./README/images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" width="150"/>
-		<img src="./README/images/hacktoberfest/hacktoberfest-2021.png" alt="Hacktoberfest 2021" width="150"/>
+		<img src="./README/images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" height="130"/>
+		<img src="./README/images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" height="130"/>
+		<img src="./README/images/hacktoberfest/hacktoberfest-2021.png" alt="Hacktoberfest 2021" height="130"/>
 	</p>
 </div>
