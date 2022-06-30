@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>
-		Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there! I'm Beatriz Sopeña Merino
+		Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> there! I'm Beatriz Sopeña Merino
 	</h1>
 	<h3>
 		web developer and grafic designer
@@ -13,7 +13,7 @@
 		<p>
 			Welcome to my profile!
 			<br>
-			I'm Beatriz Sopeña Merino, Fullstack web developer and grafic designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15px"> Madrid, Spain.
+			I'm Beatriz Sopeña Merino, Fullstack web developer and grafic designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15"> Madrid, Spain.
 			<br>
 			Currently, I am working from home for the <a href="https://www.webpac.com/" target="_blank" rel="noopener noreferrer">Webpac</a> company as Frontend developer, I am finishing a <a href="https://github.com/beatrizsmerino/exercises-javascript-node" target="_blank" rel="noopener noreferrer">Master of Javascript and Node JS in Fizticia</a> and working in other <a href="https://www.crcanine.com/" target="_blank" rel="noopener noreferrer">projects as a freelance</a>.
 			<br>
@@ -23,7 +23,7 @@
 	<div align="center">
 		<p>
 			<a href="https://www.linkedin.com/in/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
-				<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30px"/>
+				<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
 			</a>
 		</p>
 	</div>
@@ -269,8 +269,8 @@
 		Hacktoberfest
 	</h2>
 	<p>
-		<img src="./README/images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" width="150px"/>
-		<img src="./README/images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" width="150px"/>
-		<img src="./README/images/hacktoberfest/hacktoberfest-2021.png" alt="Hacktoberfest 2021" width="150px"/>
+		<img src="./README/images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" width="150"/>
+		<img src="./README/images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" width="150"/>
+		<img src="./README/images/hacktoberfest/hacktoberfest-2021.png" alt="Hacktoberfest 2021" width="150"/>
 	</p>
 </div>
