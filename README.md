@@ -8,7 +8,7 @@
 </div>
 
 
-<div id="description">
+<div id="presentation">
 	<div>
 		<p>
 			Welcome to my profile!
