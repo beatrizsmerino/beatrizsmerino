@@ -40,10 +40,10 @@
 		Skills
 	</summary>
 	<div>
-		<div id="design">
-			<h3>
+		<details id="design" open="true">
+			<summary style="font-size: 16px;">
 				Design
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=FFFFFF" alt="Photoshop" />
 				<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=FFFFFF" alt="Illustrator" />
@@ -54,11 +54,11 @@
 				<br>
 				<img src="https://img.shields.io/badge/-Figma-F24E1D?&style=for-the-badge&logo=Figma&logoColor=FFFFFF" alt="Figma" />
 			</p>
-		</div>
-		<div id="frontend">
-			<h3>
+		</details>
+		<details id="frontend" open="true">
+			<summary style="font-size: 16px;">
 				Frontend
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
 				<img src="https://img.shields.io/badge/-JADE/PUG-A86454?style=for-the-badge&logo=Pug&logoColor=FFFFFF" alt="Jade/Pug" />
@@ -81,11 +81,11 @@
 				<img src="https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF" alt="Vuetify" />
 				<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
 			</p>
-		</div>
-		<div id="backend">
-			<h3>
+		</details>
+		<details id="backend" open="true">
+			<summary style="font-size: 16px;">
 				Backend
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333333" alt="Firebase" />
 				<br>
@@ -99,20 +99,20 @@
 				<br>
 				<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=FFFFFF" alt="MAMP" />
 			</p>
-		</div>
-		<div id="project-documentation">
-			<h3>
+		</details>
+		<details id="project-documentation">
+			<summary style="font-size: 16px;">
 				Project documentation
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF" alt="Markdown" />
 				<img src="https://img.shields.io/badge/-JSDoc-006FBB?style=for-the-badge&logoColor=FFFFFF" alt="JSDoc" />
 			</p>
-		</div>
-		<div id="project-configuration">
-			<h3>
+		</details>
+		<details id="project-configuration">
+			<summary style="font-size: 16px;">
 				Project configuration
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=FFFFFF" alt="Prettier" />
 				<img src="https://img.shields.io/badge/-EditorConfig-333333?style=for-the-badge&logo=EditorConfig&logoColor=FEFEFE" alt="EditorConfig" />
@@ -123,11 +123,11 @@
 				<br>
 				<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=333333" alt="Webpack" />
 			</p>
-		</div>
-		<div id="task-runners">
-			<h3>
+		</details>
+		<details id="task-runners">
+			<summary style="font-size: 16px;">
 				Task runners
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="NPM" />
 				<img src="https://img.shields.io/badge/-Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=333333" alt="Homebrew" />
@@ -139,11 +139,11 @@
 				<img src="https://img.shields.io/badge/-Gulp-D34A47?style=for-the-badge&logo=gulp&logoColor=FFFFFF" alt="Gulp" />
 				<img src="https://img.shields.io/badge/-Prepros-00AACD?style=for-the-badge&logoColor=FFFFFF" alt="Prepros" />
 			</p>
-		</div>
-		<div id="version-control">
-			<h3>
+		</details>
+		<details id="version-control">
+			<summary style="font-size: 16px;">
 				Version Control
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="GIT" />
 				<img src="https://img.shields.io/badge/-Git Flow-0288A6?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git Flow" />
@@ -152,11 +152,11 @@
 				<br>
 				<img src="https://img.shields.io/badge/-SourceTree-0047B3?style=for-the-badge&logo=Atlassian&logoColor=FFFFFF" alt="SourceTree" />
 			</p>
-		</div>
-		<div id="project-management">
-			<h3>
+		</details>
+		<details id="project-management">
+			<summary style="font-size: 16px;">
 				Project management
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logoColor=FFFFFF" alt="Monday" />
 				<img src="https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=Skype&logoColor=FFFFFF" alt="Skype" />
@@ -167,11 +167,11 @@
 				<br>
 				<img src="https://img.shields.io/badge/-Hootsuite-143059?style=for-the-badge&logo=Hootsuite&logoColor=FFFFFF" alt="Hootsuite" />
 			</p>
-		</div>
-		<div id="code-editors">
-			<h3>
+		</details>
+		<details id="code-editors">
+			<summary style="font-size: 16px;">
 				Code editors
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Visual Studio Code-005BA4?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF" alt="Visual Studio Code" />
 				<img src="https://img.shields.io/badge/-PhpStorm-7A59F7?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF" alt="PhpStorm" />
@@ -182,11 +182,11 @@
 				<img src="https://img.shields.io/badge/-Sublime Text-222222?style=for-the-badge&logo=Sublime+Text&logoColor=FF9800" alt="Sublime Text" />
 				<img src="https://img.shields.io/badge/-EditPlus-F95635?style=for-the-badge&logoColor=FFFFFF" alt="EditPlus" />
 			</p>
-		</div>
-		<div id="browsers">
-			<h3>
+		</details>
+		<details id="browsers">
+			<summary style="font-size: 16px;">
 				Browsers
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Internet Explorer-0076D6?style=for-the-badge&logo=InternetExplorer&logoColor=FFFFFF" alt="Internet Explorer" />
 				<img src="https://img.shields.io/badge/-Microsoft Edge-0078D7?style=for-the-badge&logo=MicrosoftEdge&logoColor=FFFFFF" alt="Microsoft Edge" />
@@ -197,22 +197,22 @@
 				<img src="https://img.shields.io/badge/-Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=FFFFFF" alt="Opera" />
 				<img src="https://img.shields.io/badge/-Safari-000000?style=for-the-badge&logo=Safari&logoColor=FFFFFF" alt="Safari" />
 			</p>
-		</div>
-		<div id="operating-system">
-			<h3>
+		</details>
+		<details id="operating-system">
+			<summary style="font-size: 16px;">
 				OS
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF" alt="Windows" />
 				<img src="https://img.shields.io/badge/-Mac-999999?style=for-the-badge&logo=apple&logoColor=FFFFFF" alt="Apple" />
 				<br>
 				<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF" alt="VirtualBox" />
 			</p>
-		</div>
-		<div id="learn-share-code">
-			<h3>
+		</details>
+		<details id="learn-share-code">
+			<summary style="font-size: 16px;">
 				Learn and share code
-			</h3>
+			</summary>
 			<p>
 				<a href="https://github.com/beatrizsmerino" target="_blank" rel="noopener noreferrer">
 					<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF" alt="Github" />
@@ -231,11 +231,11 @@
 					<img src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=FFFFFF" alt="Stack Overflow" />
 				</a>
 			</p>
-		</div>
-		<div id="hobbies">
-			<h3>
+		</details>
+		<details id="hobbies">
+			<summary style="font-size: 16px;">
 				Hobbies
-			</h3>
+			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Spotify-000000?&style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760" alt="Spotify" />
 				<img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=FFFFFF" alt="YouTube" />
@@ -250,7 +250,7 @@
 				<br>
 				<img src="https://img.shields.io/badge/-Fitbit-00B0B9?&style=for-the-badge&logo=Fitbit&logoColor=FFFFFF" alt="Fitbit" />
 			</p>
-		</div>
+		</details>
 	</div>
 </details>
 
