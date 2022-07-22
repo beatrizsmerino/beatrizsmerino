@@ -11,6 +11,26 @@
 
 <br>
 
+<nav>
+	<p align="center">
+		<a href="#presentation">
+			Presentation
+		</a>
+		|
+		<a href="#skills">
+			Skills
+		</a>
+		|
+		<a href="#github-stats">
+			GitHub Stats
+		</a>
+		|
+		<a href="#hacktoberfest">
+			Hacktoberfest
+		</a>
+	</p>
+</nav>
+
 <details id="presentation" open="true">
 	<summary>
 		<h2>
