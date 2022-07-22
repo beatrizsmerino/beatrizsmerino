@@ -1,51 +1,16 @@
-<style>
-	.text--center {
-		text-align: center;
-	}
-
-	.h1 {
-		margin-bottom: 0;
-		font-size: 2.5rem;
-	}
-
-	.h2 {
-		font-size: 1.8rem;
-	}
-
-	.h3 {
-		font-size: 1.4rem;
-	}
-
-	.h3--italic {
-		font-style: italic;
-	}
-
-	details {
-		margin-top: 2rem;
-	}
-
-	details details {
-		margin-top: 0;
-	}
-
-	details > div {
-		margin-left: 2rem;
-	}
-</style>
-
-
-<div class="text--center">
-	<h1 class="h1">
+<div align="center">
+	<h1>
 		Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> there! I'm Beatriz Sopeña Merino
 	</h1>
-	<h3 class="h3 h3--italic">
+	<h3>
 		web developer and grafic designer
 	</h3>
 </div>
 
+<br>
 
 <details id="presentation" open="true">
-	<summary class="h2">
+	<summary style="font-size: 20px;">
 		Presentation
 	</summary>
 	<div>
@@ -60,7 +25,7 @@
 				I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/" target="_blank" rel="noopener noreferrer">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
 			</p>
 		</div>
-		<div class="text--center">
+		<div align="center">
 			<p>
 				<a href="https://www.linkedin.com/in/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
 					<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
@@ -71,12 +36,12 @@
 </details>
 
 <details id="skills" open="true">
-	<summary class="h2">
+	<summary style="font-size: 20px;">
 		Skills
 	</summary>
 	<div>
 		<details id="design" open="true">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Design
 			</summary>
 			<p>
@@ -91,7 +56,7 @@
 			</p>
 		</details>
 		<details id="frontend" open="true">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Frontend
 			</summary>
 			<p>
@@ -118,7 +83,7 @@
 			</p>
 		</details>
 		<details id="backend" open="true">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Backend
 			</summary>
 			<p>
@@ -136,7 +101,7 @@
 			</p>
 		</details>
 		<details id="project-documentation">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Project documentation
 			</summary>
 			<p>
@@ -145,7 +110,7 @@
 			</p>
 		</details>
 		<details id="project-configuration">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Project configuration
 			</summary>
 			<p>
@@ -160,7 +125,7 @@
 			</p>
 		</details>
 		<details id="task-runners">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Task runners
 			</summary>
 			<p>
@@ -176,7 +141,7 @@
 			</p>
 		</details>
 		<details id="version-control">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Version Control
 			</summary>
 			<p>
@@ -189,7 +154,7 @@
 			</p>
 		</details>
 		<details id="project-management">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Project management
 			</summary>
 			<p>
@@ -204,7 +169,7 @@
 			</p>
 		</details>
 		<details id="code-editors">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Code editors
 			</summary>
 			<p>
@@ -219,7 +184,7 @@
 			</p>
 		</details>
 		<details id="browsers">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Browsers
 			</summary>
 			<p>
@@ -234,7 +199,7 @@
 			</p>
 		</details>
 		<details id="operating-system">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				OS
 			</summary>
 			<p>
@@ -245,7 +210,7 @@
 			</p>
 		</details>
 		<details id="learn-share-code">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Learn and share code
 			</summary>
 			<p>
@@ -268,7 +233,7 @@
 			</p>
 		</details>
 		<details id="hobbies">
-			<summary class="h3">
+			<summary style="font-size: 16px;">
 				Hobbies
 			</summary>
 			<p>
@@ -290,7 +255,7 @@
 </details>
 
 <details id="github-stats" open="true">
-	<summary class="h2">
+	<summary style="font-size: 20px;">
 		GitHub Stats
 	</summary>
 	<div>
@@ -308,7 +273,7 @@
 </details>
 
 <details id="hacktoberfest" open="true">
-	<summary class="h2">
+	<summary style="font-size: 20px;">
 		Hacktoberfest
 	</summary>
 	<div>
