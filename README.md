@@ -94,9 +94,9 @@
 			<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=MAMP&logoColor=FFFFFF" alt="MAMP" />
 		</p>
 	</div>
-	<div id="project-configuration">
+	<div id="project-documentation">
 		<h3>
-			Documentation
+			Project documentation
 		</h3>
 		<p>
 			<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF" alt="Markdown" />
