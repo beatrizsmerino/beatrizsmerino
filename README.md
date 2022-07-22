@@ -3,15 +3,19 @@
 		Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> there! I'm Beatriz Sopeña Merino
 	</h1>
 	<h3>
-		web developer and grafic designer
+		<em>
+			web developer and grafic designer
+		</em>
 	</h3>
 </div>
 
 <br>
 
 <details id="presentation" open="true">
-	<summary style="font-size: 20px;">
-		Presentation
+	<summary>
+		<h2>
+			Presentation
+		</h2>
 	</summary>
 	<div>
 		<div>
@@ -36,13 +40,17 @@
 </details>
 
 <details id="skills" open="true">
-	<summary style="font-size: 20px;">
-		Skills
+	<summary>
+		<h2>
+			Skills
+		</h2>
 	</summary>
 	<div>
 		<details id="design" open="true">
-			<summary style="font-size: 16px;">
-				Design
+			<summary>
+				<h3>
+					Design
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=FFFFFF" alt="Photoshop" />
@@ -56,8 +64,10 @@
 			</p>
 		</details>
 		<details id="frontend" open="true">
-			<summary style="font-size: 16px;">
-				Frontend
+			<summary>
+				<h3>
+					Frontend
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
@@ -83,8 +93,10 @@
 			</p>
 		</details>
 		<details id="backend" open="true">
-			<summary style="font-size: 16px;">
-				Backend
+			<summary>
+				<h3>
+					Backend
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333333" alt="Firebase" />
@@ -101,8 +113,10 @@
 			</p>
 		</details>
 		<details id="project-documentation">
-			<summary style="font-size: 16px;">
-				Project documentation
+			<summary>
+				<h3>
+					Project documentation
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF" alt="Markdown" />
@@ -110,8 +124,10 @@
 			</p>
 		</details>
 		<details id="project-configuration">
-			<summary style="font-size: 16px;">
-				Project configuration
+			<summary>
+				<h3>
+					Project configuration
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=FFFFFF" alt="Prettier" />
@@ -125,8 +141,10 @@
 			</p>
 		</details>
 		<details id="task-runners">
-			<summary style="font-size: 16px;">
-				Task runners
+			<summary>
+				<h3>
+					Task runners
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="NPM" />
@@ -141,8 +159,10 @@
 			</p>
 		</details>
 		<details id="version-control">
-			<summary style="font-size: 16px;">
-				Version Control
+			<summary>
+				<h3>
+					Version Control
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="GIT" />
@@ -154,8 +174,10 @@
 			</p>
 		</details>
 		<details id="project-management">
-			<summary style="font-size: 16px;">
-				Project management
+			<summary>
+				<h3>
+					Project management
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logoColor=FFFFFF" alt="Monday" />
@@ -169,8 +191,10 @@
 			</p>
 		</details>
 		<details id="code-editors">
-			<summary style="font-size: 16px;">
-				Code editors
+			<summary>
+				<h3>
+					Code editors
+				<h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Visual Studio Code-005BA4?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF" alt="Visual Studio Code" />
@@ -184,8 +208,10 @@
 			</p>
 		</details>
 		<details id="browsers">
-			<summary style="font-size: 16px;">
-				Browsers
+			<summary>
+				<h3>
+					Browsers
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Internet Explorer-0076D6?style=for-the-badge&logo=InternetExplorer&logoColor=FFFFFF" alt="Internet Explorer" />
@@ -199,8 +225,10 @@
 			</p>
 		</details>
 		<details id="operating-system">
-			<summary style="font-size: 16px;">
-				OS
+			<summary>
+				<h3>
+					OS
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF" alt="Windows" />
@@ -210,8 +238,10 @@
 			</p>
 		</details>
 		<details id="learn-share-code">
-			<summary style="font-size: 16px;">
-				Learn and share code
+			<summary>
+				<h3>
+					Learn and share code
+				</h3>
 			</summary>
 			<p>
 				<a href="https://github.com/beatrizsmerino" target="_blank" rel="noopener noreferrer">
@@ -233,8 +263,10 @@
 			</p>
 		</details>
 		<details id="hobbies">
-			<summary style="font-size: 16px;">
-				Hobbies
+			<summary>
+				<h3>
+					Hobbies
+				</h3>
 			</summary>
 			<p>
 				<img src="https://img.shields.io/badge/-Spotify-000000?&style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760" alt="Spotify" />
@@ -255,8 +287,10 @@
 </details>
 
 <details id="github-stats" open="true">
-	<summary style="font-size: 20px;">
-		GitHub Stats
+	<summary>
+		<h2>
+			GitHub Stats
+		</h2>
 	</summary>
 	<div>
 		<p>
@@ -273,8 +307,10 @@
 </details>
 
 <details id="hacktoberfest" open="true">
-	<summary style="font-size: 20px;">
-		Hacktoberfest
+	<summary>
+		<h2>
+			Hacktoberfest
+		</h2>
 	</summary>
 	<div>
 		<p>
