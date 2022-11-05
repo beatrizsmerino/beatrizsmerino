@@ -362,10 +362,22 @@
 	</summary>
 	<div>
 		<p>
-			<img src="./README/images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" height="130"/>
-			<img src="./README/images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" height="130"/>
-			<img src="./README/images/hacktoberfest/hacktoberfest-2021.png" alt="Hacktoberfest 2021" height="130"/>
-			<img src="./README/images/hacktoberfest/hacktoberfest-2022.png" alt="Hacktoberfest 2022" height="130"/>
+			<figure>
+				<img src="./README/images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" height="130"/>
+				<figcaption>2019</figcaption>
+			</figure>
+			<figure>
+				<img src="./README/images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" height="130"/>
+				<figcaption>2020</figcaption>
+			</figure>
+			<figure>
+				<img src="./README/images/hacktoberfest/hacktoberfest-2021.png" alt="Hacktoberfest 2021" height="130"/>
+				<figcaption>2021</figcaption>
+			</figure>
+			<figure>
+				<img src="./README/images/hacktoberfest/hacktoberfest-2022.png" alt="Hacktoberfest 2022" height="130"/>
+				<figcaption>2022</figcaption>
+			</figure>
 		</p>
 	</div>
 </details>
