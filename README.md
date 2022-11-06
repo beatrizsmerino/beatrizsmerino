@@ -44,7 +44,7 @@
 				<br>
 				I'm Beatriz Sopeña Merino, Fullstack web developer and grafic designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15"> Madrid, Spain.
 				<br>
-				Currently, I am working from home for the <a href="https://www.webpac.com/" target="_blank" rel="noopener noreferrer">Webpac</a> company as Frontend developer, I am finishing a <a href="https://github.com/beatrizsmerino/exercises-javascript-node" target="_blank" rel="noopener noreferrer">Master of Javascript and Node JS in Fizticia</a> and working in other <a href="https://www.crcanine.com/" target="_blank" rel="noopener noreferrer">projects as a freelance</a>.
+				Currently, I am working from home for the <a href="https://www.sngular.com/" target="_blank" rel="noopener noreferrer">SNGULAR</a> company as <strong>Senior Frontend Developer</strong> and I am working in other projects as a freelance.
 				<br>
 				I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/" target="_blank" rel="noopener noreferrer">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
 			</p>
