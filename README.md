@@ -370,16 +370,24 @@
 			</tr>
 			<tr>
 				<td>
-					<img src="./README/images/hacktoberfest/edit/hacktoberfest-2019.png" alt="Hacktoberfest 2019"/>
+					<a href="./README/images/hacktoberfest/original/hacktoberfest-2019.png" target="_blank" rel="noopener noreferrer">
+	  					<img src="./README/images/hacktoberfest/edit/hacktoberfest-2019.png" alt="Hacktoberfest 2019"/>
+					</a>
 				</td>
 				<td>
-					<img src="./README/images/hacktoberfest/edit/hacktoberfest-2020.png" alt="Hacktoberfest 2020"/>
+					<a href="./README/images/hacktoberfest/original/hacktoberfest-2020.png" target="_blank" rel="noopener noreferrer">
+						<img src="./README/images/hacktoberfest/edit/hacktoberfest-2020.png" alt="Hacktoberfest 2020"/>
+					</a>
 				</td>
 				<td>
-					<img src="./README/images/hacktoberfest/edit/hacktoberfest-2021.png" alt="Hacktoberfest 2021"/>
+					<a href="./README/images/hacktoberfest/original/hacktoberfest-2021.png" target="_blank" rel="noopener noreferrer">
+						<img src="./README/images/hacktoberfest/edit/hacktoberfest-2021.png" alt="Hacktoberfest 2021"/>
+					</a>
 				</td>
 				<td>
-					<img src="./README/images/hacktoberfest/edit/hacktoberfest-2022.png" alt="Hacktoberfest 2022"/>
+					<a href="./README/images/hacktoberfest/original/hacktoberfest-2022.png" target="_blank" rel="noopener noreferrer">
+						<img src="./README/images/hacktoberfest/edit/hacktoberfest-2022.png" alt="Hacktoberfest 2022"/>
+					</a>
 				</td>
 			</tr>
 		</table>
