@@ -44,14 +44,14 @@
 				<br>
 				I'm Beatriz Sopeña Merino, Fullstack web developer and grafic designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15"> Madrid, Spain.
 				<br>
-				Currently, I am working from home for the <a href="https://www.sngular.com/" target="_blank" rel="noopener noreferrer">SNGULAR</a> company as <strong>Senior Frontend Developer</strong> and I am working in other projects as a freelance.
+				Currently, I am working from home for the <a href="https://www.sngular.com/">SNGULAR</a> company as <strong>Senior Frontend Developer</strong> and I am working in other projects as a freelance.
 				<br>
-				I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/" target="_blank" rel="noopener noreferrer">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
+				I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
 			</p>
 		</div>
 		<div align="center">
 			<p>
-				<a href="https://www.linkedin.com/in/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
+				<a href="https://www.linkedin.com/in/beatrizsmerino/">
 					<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
 				</a>
 			</p>
@@ -288,20 +288,20 @@
 						</h3>
 					</summary>
 					<p>
-						<a href="https://github.com/beatrizsmerino" target="_blank" rel="noopener noreferrer">
+						<a href="https://github.com/beatrizsmerino">
 							<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF" alt="Github" />
 						</a>
 						<img src="https://img.shields.io/badge/-Dependabot-025E8C?style=for-the-badge&logo=Dependabot&logoColor=FFFFFF" alt="Dependabot" />
 						<br>
-						<a href="https://codepen.io/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
+						<a href="https://codepen.io/beatrizsmerino/">
 							<img src="https://img.shields.io/badge/-Codepen-47cf73?&style=for-the-badge&logo=Codepen&logoColor=FFFFFF" alt="CodePen" />
 						</a>
-						<a href="https://codesandbox.io/u/beatrizsmerino" target="_blank" rel="noopener noreferrer">
+						<a href="https://codesandbox.io/u/beatrizsmerino">
 							<img src="https://img.shields.io/badge/-CodeSandBox-204056?style=for-the-badge&logo=CodeSandBox&logoColor=FFFFFF" alt="CodeSandBox" />
 						</a>
 						<br>
 						<img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=Udemy&logoColor=FFFFFF" alt="Udemy" />
-						<a href="https://stackoverflow.com/users/10855837/beatrizsmerino" target="_blank" rel="noopener noreferrer">
+						<a href="https://stackoverflow.com/users/10855837/beatrizsmerino">
 							<img src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=FFFFFF" alt="Stack Overflow" />
 						</a>
 					</p>
@@ -342,11 +342,11 @@
 	</summary>
 	<div>
 		<p>
-			<a href="https://github.com/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
+			<a href="https://github.com/beatrizsmerino/">
 				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&hide=html&theme=vue-dark&show_icons=true"
 					alt="Beatriz's GitHub Stats: Top programming languages"/>
 			</a>
-			<a href="https://github.com/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
+			<a href="https://github.com/beatrizsmerino/">
 				<img src="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&theme=vue-dark&show_icons=true"
 					alt="Beatriz's GitHub Stats"/>
 			</a>
@@ -370,22 +370,22 @@
 			</tr>
 			<tr>
 				<td>
-					<a href="./README/images/hacktoberfest/original/hacktoberfest-2019.png" target="_blank" rel="noopener noreferrer">
+					<a href="./README/images/hacktoberfest/original/hacktoberfest-2019.png">
 	  					<img src="./README/images/hacktoberfest/edit/hacktoberfest-2019.png" alt="Hacktoberfest 2019"/>
 					</a>
 				</td>
 				<td>
-					<a href="./README/images/hacktoberfest/original/hacktoberfest-2020.png" target="_blank" rel="noopener noreferrer">
+					<a href="./README/images/hacktoberfest/original/hacktoberfest-2020.png">
 						<img src="./README/images/hacktoberfest/edit/hacktoberfest-2020.png" alt="Hacktoberfest 2020"/>
 					</a>
 				</td>
 				<td>
-					<a href="./README/images/hacktoberfest/original/hacktoberfest-2021.png" target="_blank" rel="noopener noreferrer">
+					<a href="./README/images/hacktoberfest/original/hacktoberfest-2021.png">
 						<img src="./README/images/hacktoberfest/edit/hacktoberfest-2021.png" alt="Hacktoberfest 2021"/>
 					</a>
 				</td>
 				<td>
-					<a href="./README/images/hacktoberfest/original/hacktoberfest-2022.png" target="_blank" rel="noopener noreferrer">
+					<a href="./README/images/hacktoberfest/original/hacktoberfest-2022.png">
 						<img src="./README/images/hacktoberfest/edit/hacktoberfest-2022.png" alt="Hacktoberfest 2022"/>
 					</a>
 				</td>
