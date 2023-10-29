@@ -363,12 +363,18 @@
 	<div>
 		<table>
 			<tr>
+				<th>2023</th>
 				<th>2022</th>
 				<th>2021</th>
 				<th>2020</th>
 				<th>2019</th>
 			</tr>
 			<tr>
+				<td>
+					<a href="./README/images/hacktoberfest/original/hacktoberfest-2023.svg">
+						<img src="./README/images/hacktoberfest/edit/hacktoberfest-2023.svg" alt="Hacktoberfest 2023"/>
+					</a>
+				</td>
 				<td>
 					<a href="./README/images/hacktoberfest/original/hacktoberfest-2022.png">
 						<img src="./README/images/hacktoberfest/edit/hacktoberfest-2022.png" alt="Hacktoberfest 2022"/>
