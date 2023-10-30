@@ -350,6 +350,10 @@
 				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&layout=compact&hide=html&theme=vue-dark&show_icons=true"
 					alt="Beatriz's GitHub Stats: Top programming languages"/>
 			</a>
+			<a href="https://wakatime.com/@beatrizsmerino">
+				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=beatrizsmerino&layout=compact&theme=vue-dark"
+					alt="Beatriz's GitHub Stats: Wakatime (last year)"/>
+			</a>
 		</p>
 	</div>
 </details>
