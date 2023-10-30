@@ -347,7 +347,7 @@
 					alt="Beatriz's GitHub Stats"/>
 			</a>
 			<a href="https://github.com/beatrizsmerino/">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&layout=compact&langs_count=10&theme=vue-dark&show_icons=true"
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&layout=compact&langs_count=10&theme=vue-dark"
 					alt="Beatriz's GitHub Stats: Top programming languages"/>
 			</a>
 			<a href="https://wakatime.com/@beatrizsmerino">
