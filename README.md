@@ -343,7 +343,7 @@
 	<div>
 		<p>
 			<a href="https://github.com/beatrizsmerino/">
-				<img src="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&theme=vue-dark&show_icons=true"
+				<img src="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vue-dark&show_icons=true"
 					alt="Beatriz's GitHub Stats"/>
 			</a>
 			<a href="https://github.com/beatrizsmerino/">
