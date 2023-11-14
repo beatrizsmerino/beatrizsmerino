@@ -21,12 +21,12 @@
 			Skills
 		</a>
 		|
-		<a href="#github-stats">
-			GitHub Stats
+		<a href="#stats">
+			Stats
 		</a>
 		|
-		<a href="#hacktoberfest">
-			Hacktoberfest
+		<a href="#events">
+			Events
 		</a>
 	</p>
 </nav>
@@ -34,7 +34,7 @@
 <details id="presentation" open="true">
 	<summary>
 		<h2>
-			Presentation
+			👋 Presentation
 		</h2>
 	</summary>
 	<div>
@@ -62,7 +62,7 @@
 <details id="skills" open="true">
 	<summary>
 		<h2>
-			Skills
+			💼 Skills
 		</h2>
 	</summary>
 	<div>
@@ -334,10 +334,10 @@
 	</div>
 </details>
 
-<details id="github-stats" open="true">
+<details id="stats" open="true">
 	<summary>
 		<h2>
-			GitHub Stats
+			📊 Stats
 		</h2>
 	</summary>
 	<div>
@@ -358,13 +358,16 @@
 	</div>
 </details>
 
-<details id="hacktoberfest" open="true">
+<details id="events" open="true">
 	<summary>
 		<h2>
-			Hacktoberfest
+			🗓️ Events
 		</h2>
 	</summary>
 	<div>
+		<h3>
+			Hacktoberfest
+		</h3>
 		<table>
 			<tr>
 				<th>2023</th>
