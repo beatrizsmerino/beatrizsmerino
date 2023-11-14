@@ -21,8 +21,8 @@
 			Skills
 		</a>
 		|
-		<a href="#github-stats">
-			GitHub Stats
+		<a href="#stats">
+			Stats
 		</a>
 		|
 		<a href="#events">
@@ -334,10 +334,10 @@
 	</div>
 </details>
 
-<details id="github-stats" open="true">
+<details id="stats" open="true">
 	<summary>
 		<h2>
-			GitHub Stats
+			Stats
 		</h2>
 	</summary>
 	<div>
