@@ -350,18 +350,23 @@
 				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&layout=compact&langs_count=10&theme=vue-dark"
 					alt="Beatriz's GitHub Stats: Top programming languages"/>
 			</a>
-			<a href="https://wakatime.com/@beatrizsmerino">
-				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=beatrizsmerino&layout=compact&theme=vue-dark"
-					alt="Beatriz's GitHub Stats: Wakatime (last year)"/>
-			</a>
-			<a href="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=white&dates=ffffff80">
-			<img src="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=aac8e4&dates=aac8e4"
-					alt="Beatriz's GitHub Streak Stats"/>
-			</a>
-			<!--START_SECTION:waka-->
-			<!--END_SECTION:waka-->
+    	</p>
+		<p>
+		    <a href="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=white&dates=ffffff80">
+    			<img src="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=aac8e4&dates=aac8e4"
+    				alt="Beatriz's GitHub Streak Stats"/>
+    		</a>
 		</p>
-	</div>
+    	<p>
+    		<a href="https://wakatime.com/@beatrizsmerino">
+    			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=beatrizsmerino&layout=compact&theme=vue-dark"
+    				alt="Beatriz's GitHub Stats: Wakatime (last year)"/>
+    		</a>
+    		<!--START_SECTION:waka-->
+    		<!--END_SECTION:waka-->
+    	</p>
+    </div>
+
 </details>
 
 <details id="hacktoberfest" open="true">
