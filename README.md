@@ -25,8 +25,8 @@
 			GitHub Stats
 		</a>
 		|
-		<a href="#hacktoberfest">
-			Hacktoberfest
+		<a href="#events">
+			Events
 		</a>
 	</p>
 </nav>
@@ -358,10 +358,10 @@
 	</div>
 </details>
 
-<details id="hacktoberfest" open="true">
+<details id="events" open="true">
 	<summary>
 		<h2>
-			Hacktoberfest
+			Events
 		</h2>
 	</summary>
 	<div>
