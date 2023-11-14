@@ -365,6 +365,9 @@
 		</h2>
 	</summary>
 	<div>
+		<h3>
+			Hacktoberfest
+		</h3>
 		<table>
 			<tr>
 				<th>2023</th>
