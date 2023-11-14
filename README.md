@@ -362,11 +362,8 @@
     			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=beatrizsmerino&layout=compact&theme=vue-dark"
     				alt="Beatriz's GitHub Stats: Wakatime (last year)"/>
     		</a>
-    		<!--START_SECTION:waka-->
-    		<!--END_SECTION:waka-->
     	</p>
     </div>
-
 </details>
 
 <details id="hacktoberfest" open="true">
@@ -414,3 +411,6 @@
 		</table>
 	</div>
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
