@@ -354,6 +354,10 @@
 				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=beatrizsmerino&layout=compact&theme=vue-dark"
 					alt="Beatriz's GitHub Stats: Wakatime (last year)"/>
 			</a>
+			<a href="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=white&dates=ffffff80">
+			<img src="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=aac8e4&dates=aac8e4"
+					alt="Beatriz's GitHub Streak Stats"/>
+			</a>
 		</p>
 	</div>
 </details>
