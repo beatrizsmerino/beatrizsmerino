@@ -358,6 +358,8 @@
 			<img src="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=aac8e4&dates=aac8e4"
 					alt="Beatriz's GitHub Streak Stats"/>
 			</a>
+			<!--START_SECTION:waka-->
+			<!--END_SECTION:waka-->
 		</p>
 	</div>
 </details>
