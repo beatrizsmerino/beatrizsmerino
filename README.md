@@ -34,7 +34,7 @@
 <details id="presentation" open="true">
 	<summary>
 		<h2>
-			Presentation
+			👋 Presentation
 		</h2>
 	</summary>
 	<div>
@@ -62,7 +62,7 @@
 <details id="skills" open="true">
 	<summary>
 		<h2>
-			Skills
+			💼 Skills
 		</h2>
 	</summary>
 	<div>
@@ -337,7 +337,7 @@
 <details id="stats" open="true">
 	<summary>
 		<h2>
-			Stats
+			📊 Stats
 		</h2>
 	</summary>
 	<div>
@@ -361,7 +361,7 @@
 <details id="events" open="true">
 	<summary>
 		<h2>
-			Events
+			🗓️ Events
 		</h2>
 	</summary>
 	<div>
