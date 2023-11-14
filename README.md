@@ -1,15 +1,20 @@
 <div align="center">
 	<h1>
-		Hi <img src="./README/images/icons/hello-giphy.webp" width="25"> there! I'm Beatriz Sopeña Merino
+		<span>
+			Hi <img src="./README/images/icons/hello-giphy.webp" width="25"> there!
+		</span>
+		<br>
+		<span>
+			I'm Beatriz Sopeña Merino
+		</span>
+		<br>
+		<span>
+			<em>
+				web developer and graphic designer
+			</em>
+		</span>
 	</h1>
-	<h3>
-		<em>
-			web developer and grafic designer
-		</em>
-	</h3>
 </div>
-
-<br>
 
 <nav>
 	<p align="center">
