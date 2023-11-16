@@ -1,15 +1,20 @@
 <div align="center">
 	<h1>
-		Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> there! I'm Beatriz Sopeña Merino
+		<span>
+			Hi <img src="./README/images/icons/hello-giphy.webp" width="25"> there!
+		</span>
+		<br>
+		<span>
+			I'm Beatriz Sopeña Merino
+		</span>
+		<br>
+		<span>
+			<em>
+				web developer and graphic designer
+			</em>
+		</span>
 	</h1>
-	<h3>
-		<em>
-			web developer and grafic designer
-		</em>
-	</h3>
 </div>
-
-<br>
 
 <nav>
 	<p align="center">
@@ -21,12 +26,12 @@
 			Skills
 		</a>
 		|
-		<a href="#github-stats">
-			GitHub Stats
+		<a href="#events">
+			Events
 		</a>
 		|
-		<a href="#hacktoberfest">
-			Hacktoberfest
+		<a href="#stats">
+			Stats
 		</a>
 	</p>
 </nav>
@@ -34,7 +39,7 @@
 <details id="presentation" open="true">
 	<summary>
 		<h2>
-			Presentation
+			👋 Presentation
 		</h2>
 	</summary>
 	<div>
@@ -62,7 +67,7 @@
 <details id="skills" open="true">
 	<summary>
 		<h2>
-			Skills
+			💼 Skills
 		</h2>
 	</summary>
 	<div>
@@ -334,37 +339,16 @@
 	</div>
 </details>
 
-<details id="github-stats" open="true">
+<details id="events" open="true">
 	<summary>
 		<h2>
-			GitHub Stats
+			🗓️ Events
 		</h2>
 	</summary>
 	<div>
-		<p>
-			<a href="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vue-dark&show_icons=true">
-				<img src="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vue-dark&show_icons=true"
-					alt="Beatriz's GitHub Stats"/>
-			</a>
-			<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&layout=compact&langs_count=10&theme=vue-dark">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&layout=compact&langs_count=10&theme=vue-dark"
-					alt="Beatriz's GitHub Stats: Top programming languages"/>
-			</a>
-			<a href="https://wakatime.com/@beatrizsmerino">
-				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=beatrizsmerino&layout=compact&theme=vue-dark"
-					alt="Beatriz's GitHub Stats: Wakatime (last year)"/>
-			</a>
-		</p>
-	</div>
-</details>
-
-<details id="hacktoberfest" open="true">
-	<summary>
-		<h2>
+		<h3>
 			Hacktoberfest
-		</h2>
-	</summary>
-	<div>
+		</h3>
 		<table>
 			<tr>
 				<th>2023</th>
@@ -403,3 +387,112 @@
 		</table>
 	</div>
 </details>
+
+<details id="stats" open="true">
+	<summary>
+		<h2>
+			📊 Stats
+		</h2>
+	</summary>
+	<div>
+		<p>
+			<a href="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vue-dark&show_icons=true">
+				<img src="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vue-dark&show_icons=true"
+					alt="Beatriz's GitHub Stats"/>
+			</a>
+			<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&layout=compact&langs_count=10&theme=vue-dark">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&layout=compact&langs_count=10&theme=vue-dark"
+					alt="Beatriz's GitHub Stats: Top programming languages"/>
+			</a>
+    	</p>
+		<p>
+		    <a href="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=white&dates=ffffff80">
+    			<img src="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=aac8e4&dates=aac8e4"
+    				alt="Beatriz's GitHub Streak Stats"/>
+    		</a>
+		</p>
+    	<p>
+    		<a href="https://wakatime.com/@beatrizsmerino">
+    			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=beatrizsmerino&layout=compact&theme=vue-dark"
+    				alt="Beatriz's GitHub Stats: Wakatime (last year)"/>
+    		</a>
+    	</p>
+    </div>
+</details>
+
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2057%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-541-blue)
+
+**🐱 My GitHub Data**
+
+> 📦 1.3 MB Used in GitHub's Storage
+>
+> 🏆 3,858 Contributions in the Year 2023
+>
+> 🚫 Not Opted to Hire
+>
+> 📜 32 Public Repositories
+>
+> 🔑 5 Private Repositories
+>
+> **I'm a Night 🦉**
+
+```text
+🌞 Morning                3080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 %
+🌆 Daytime                5367 commits        ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+🌃 Evening                6803 commits        ████████░░░░░░░░░░░░░░░░░   30.30 %
+🌙 Night                  7200 commits        ████████░░░░░░░░░░░░░░░░░   32.07 %
+```
+
+📅 **I'm Most Productive on Monday**
+
+```text
+Monday                   3993 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 %
+Tuesday                  2802 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Wednesday                3753 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 %
+Thursday                 3522 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+Friday                   3310 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Saturday                 2089 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Sunday                   2981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages:
+YAML                     4 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.69 %
+Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 %
+Git                      1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 %
+Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+
+🔥 Editors:
+VS Code                  8 hrs 29 mins       █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+beatrizsmerino           8 hrs 29 mins       █████████████████████████   100.00 %
+
+💻 Operating System:
+Mac                      8 hrs 29 mins       █████████████████████████   100.00 %
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 %
+HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 %
+Vue                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Sass                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/beatrizsmerino/beatrizsmerino/feature/github-stats/assets/bar_graph.png)
+
+<!--END_SECTION:waka-->
