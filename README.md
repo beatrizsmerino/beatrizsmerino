@@ -38,10 +38,10 @@
     		<img src="./README/images/icons/instagram.gif" alt="Beatriz`s Instagram" width="30"/>
     	</a>
 		<a href="https://codesandbox.io/u/beatrizsmerino">
-    		<img src="./README/images/icons/codesandbox-black.gif" alt="Beatriz`s CodeSandbox" width="30"/>
+    		<img src="./README/images/icons/codesandbox-white.gif" alt="Beatriz`s CodeSandbox" width="30"/>
     	</a>
 		<a href="https://codepen.io/beatrizsmerino/">
-    		<img src="./README/images/icons/codepen-black.gif" alt="Beatriz`s Codepen" width="30"/>
+    		<img src="./README/images/icons/codepen-white.gif" alt="Beatriz`s Codepen" width="30"/>
     	</a>
     </p>
 </nav>
