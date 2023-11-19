@@ -34,6 +34,9 @@
     	<a href="https://www.linkedin.com/in/beatrizsmerino/">
     		<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
     	</a>
+		<a href="https://www.instagram.com/beatrizsmerino/">
+    		<img src="./README/images/icons/instagram.gif" alt="Beatriz`s Instagram" width="30"/>
+    	</a>
     </p>
 </nav>
 
