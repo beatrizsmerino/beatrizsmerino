@@ -108,6 +108,7 @@
 						<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
 						<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF" alt="SASS/SCSS" />
 						<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
+						<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind" />
 						<br>
 						<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
 						<img src="https://img.shields.io/badge/-Handlebars.js-F0772B?style=for-the-badge&logo=Handlebars.js&logoColor=FFFFFF" alt="Handlebarjs" />
