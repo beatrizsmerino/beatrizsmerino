@@ -37,6 +37,9 @@
 		<a href="https://www.instagram.com/beatrizsmerino/">
     		<img src="./README/images/icons/instagram.gif" alt="Beatriz`s Instagram" width="30"/>
     	</a>
+		<a href="https://codepen.io/beatrizsmerino/">
+    		<img src="./README/images/icons/codepen-black.gif" alt="Beatriz`s Codepen" width="30"/>
+    	</a>
     </p>
 </nav>
 
