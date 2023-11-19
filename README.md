@@ -30,6 +30,11 @@
 			Stats
 		</a>
 	</p>
+	<p align="center">
+    	<a href="https://www.linkedin.com/in/beatrizsmerino/">
+    		<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
+    	</a>
+    </p>
 </nav>
 
 <details id="presentation" open="true">
@@ -48,13 +53,6 @@
 				Currently, I am working from home for a company as <strong>Senior Frontend Developer</strong> and colaborate in other projects as a freelance.
 				<br>
 				I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
-			</p>
-		</div>
-		<div align="center">
-			<p>
-				<a href="https://www.linkedin.com/in/beatrizsmerino/">
-					<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
-				</a>
 			</p>
 		</div>
 	</div>
