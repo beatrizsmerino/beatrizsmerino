@@ -125,6 +125,7 @@
 						<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
 						<br>
 						<img src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=FFFFFF" alt="Ionic" />
+						<img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF" alt="Svelte" />
 					</p>
 				</details>
 			</li>
