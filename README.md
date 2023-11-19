@@ -5,13 +5,9 @@
 		</span>
 		<br>
 		<span>
-			I'm Beatriz Sopeña Merino
-		</span>
-		<br>
-		<span>
-			<em>
-				web developer and graphic designer
-			</em>
+			<a href="https://git.io/typing-svg">
+				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00ADBB&center=true&vCenter=true&random=false&width=515&height=35&lines=Welcome+to+my+GitHub+profile+%F0%9F%8F%A0;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++I'm+Beatriz+Sope%C3%B1a+Merino;%F0%9F%96%A5%EF%B8%8F+Web+Developer+%2F+%F0%9F%8E%A8+Graphic+Designer;Thank+you+%F0%9F%8E%8A+for+visiting+me" alt="Typing SVG" />
+			</a>
 		</span>
 	</h1>
 </div>
@@ -34,6 +30,20 @@
 			Stats
 		</a>
 	</p>
+	<p align="center">
+    	<a href="https://www.linkedin.com/in/beatrizsmerino/">
+    		<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
+    	</a>
+		<a href="https://www.instagram.com/beatrizsmerino/">
+    		<img src="./README/images/icons/instagram.gif" alt="Beatriz`s Instagram" width="30"/>
+    	</a>
+		<a href="https://codesandbox.io/u/beatrizsmerino">
+    		<img src="./README/images/icons/codesandbox-white.gif" alt="Beatriz`s CodeSandbox" width="30"/>
+    	</a>
+		<a href="https://codepen.io/beatrizsmerino/">
+    		<img src="./README/images/icons/codepen-white.gif" alt="Beatriz`s Codepen" width="30"/>
+    	</a>
+    </p>
 </nav>
 
 <details id="presentation" open="true">
@@ -52,13 +62,6 @@
 				Currently, I am working from home for a company as <strong>Senior Frontend Developer</strong> and colaborate in other projects as a freelance.
 				<br>
 				I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
-			</p>
-		</div>
-		<div align="center">
-			<p>
-				<a href="https://www.linkedin.com/in/beatrizsmerino/">
-					<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
-				</a>
 			</p>
 		</div>
 	</div>
