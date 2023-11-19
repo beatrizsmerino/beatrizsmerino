@@ -108,10 +108,12 @@
 						<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
 						<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF" alt="SASS/SCSS" />
 						<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
+						<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind" />
 						<br>
 						<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
 						<img src="https://img.shields.io/badge/-Handlebars.js-F0772B?style=for-the-badge&logo=Handlebars.js&logoColor=FFFFFF" alt="Handlebarjs" />
 						<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" alt="TypeScript" />
+						<img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF" alt="Jest" />
 						<br>
 						<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=FFFFFF" alt="JQuery" />
 						<img src="https://img.shields.io/badge/-Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=FFFFFF" alt="Swiper" />
@@ -122,6 +124,11 @@
 						<img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=FFFFFF" alt="Nuxtjs" />
 						<img src="https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF" alt="Vuetify" />
 						<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
+						<br>
+						<img src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=FFFFFF" alt="Ionic" />
+						<img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF" alt="Svelte" />
+						<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=404040" alt="React" />
+						<img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&logo=angular&logoColor=FFFFFF" alt="Angular" />
 					</p>
 				</details>
 			</li>
