@@ -2,8 +2,9 @@ name: Add Wakatime Stats into the README.md file
 
 on:
     schedule:
-        # Runs at 12am IST
-        - cron: "30 18 * * *"
+        # The scheduled task will be executed at midnight (00:00) every day.
+        # In terms of frequency, this is once a day.
+        - cron: "0 0 * * *"
     workflow_dispatch:
 
 jobs:
