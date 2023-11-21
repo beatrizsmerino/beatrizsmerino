@@ -125,11 +125,6 @@
 						<img src="https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF" alt="Vuetify" />
 						<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
 						<br>
-						<span style="display:none">
-							<img src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=FFFFFF" alt="Ionic" />
-							<img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF" alt="Svelte" />
-							<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=404040" alt="React" />
-						</span>
 						<img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&logo=angular&logoColor=FFFFFF" alt="Angular" />
 					</p>
 				</details>
