@@ -112,8 +112,6 @@
 						<br>
 						<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
 						<img src="https://img.shields.io/badge/-Handlebars.js-F0772B?style=for-the-badge&logo=Handlebars.js&logoColor=FFFFFF" alt="Handlebarjs" />
-						<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" alt="TypeScript" />
-						<img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF" alt="Jest" />
 						<br>
 						<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=FFFFFF" alt="JQuery" />
 						<img src="https://img.shields.io/badge/-Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=FFFFFF" alt="Swiper" />
@@ -126,6 +124,8 @@
 						<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
 						<br>
 						<img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&logo=angular&logoColor=FFFFFF" alt="Angular" />
+						<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" alt="TypeScript" />
+						<img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF" alt="Jest" />
 					</p>
 				</details>
 			</li>
