@@ -5,13 +5,9 @@
 		</span>
 		<br>
 		<span>
-			I'm Beatriz Sopeña Merino
-		</span>
-		<br>
-		<span>
-			<em>
-				web developer and graphic designer
-			</em>
+			<a href="https://git.io/typing-svg">
+				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADBB&center=true&vCenter=true&random=false&width=380&height=20&lines=Welcome+to+my+GitHub+profile+%F0%9F%8F%A0;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++I'm+Beatriz+Sope%C3%B1a+Merino;%F0%9F%96%A5%EF%B8%8F+Web+Developer;%F0%9F%8E%A8+Graphic+Designer;Thank+you+%F0%9F%8E%8A+for+visiting+me" alt="Typing SVG" />
+			</a>
 		</span>
 	</h1>
 </div>
@@ -34,6 +30,20 @@
 			Stats
 		</a>
 	</p>
+	<p align="center">
+    	<a href="https://www.linkedin.com/in/beatrizsmerino/">
+    		<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
+    	</a>
+		<a href="https://www.instagram.com/beatrizsmerino/">
+    		<img src="./README/images/icons/instagram.gif" alt="Beatriz`s Instagram" width="30"/>
+    	</a>
+		<a href="https://codesandbox.io/u/beatrizsmerino">
+    		<img src="./README/images/icons/codesandbox-white.gif" alt="Beatriz`s CodeSandbox" width="30"/>
+    	</a>
+		<a href="https://codepen.io/beatrizsmerino/">
+    		<img src="./README/images/icons/codepen-white.gif" alt="Beatriz`s Codepen" width="30"/>
+    	</a>
+    </p>
 </nav>
 
 <details id="presentation" open="true">
@@ -52,13 +62,6 @@
 				Currently, I am working from home for a company as <strong>Senior Frontend Developer</strong> and colaborate in other projects as a freelance.
 				<br>
 				I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
-			</p>
-		</div>
-		<div align="center">
-			<p>
-				<a href="https://www.linkedin.com/in/beatrizsmerino/">
-					<img src="./README/images/icons/linkedin.gif" alt="Beatriz`s Linkedin" width="30"/>
-				</a>
 			</p>
 		</div>
 	</div>
@@ -105,10 +108,12 @@
 						<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
 						<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF" alt="SASS/SCSS" />
 						<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
+						<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind" />
 						<br>
 						<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="Javascript" />
 						<img src="https://img.shields.io/badge/-Handlebars.js-F0772B?style=for-the-badge&logo=Handlebars.js&logoColor=FFFFFF" alt="Handlebarjs" />
 						<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" alt="TypeScript" />
+						<img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF" alt="Jest" />
 						<br>
 						<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=FFFFFF" alt="JQuery" />
 						<img src="https://img.shields.io/badge/-Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=FFFFFF" alt="Swiper" />
@@ -119,6 +124,13 @@
 						<img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=FFFFFF" alt="Nuxtjs" />
 						<img src="https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF" alt="Vuetify" />
 						<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
+						<br>
+						<span style="display:none">
+							<img src="https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=FFFFFF" alt="Ionic" />
+							<img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=FFFFFF" alt="Svelte" />
+							<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=404040" alt="React" />
+						</span>
+						<img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&logo=angular&logoColor=FFFFFF" alt="Angular" />
 					</p>
 				</details>
 			</li>
