@@ -8,5 +8,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines": {
+		"node": "20.10.0",
+		"npm": "10.2.3"
+	}
 }
