@@ -12,7 +12,7 @@ jobs:
     name: 🧩 Update wakatime stats
     runs-on: ubuntu-latest
     steps:
-      - name: 🔀 Checkout the repo
+      - name: 🔀 Checkout code from repository
         uses: actions/checkout@v4
       - name: 🏗️ Generate WakaTime stats and commit
         uses: anmol098/waka-readme-stats@master
