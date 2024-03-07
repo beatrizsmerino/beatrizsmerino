@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: 🧩 Update wakatime stats
+    name: 🧩 Update WakaTime stats
     runs-on: ubuntu-latest
     steps:
       - name: 🔀 Checkout code from repository
