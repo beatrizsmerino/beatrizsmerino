@@ -48,9 +48,7 @@
 
 <details id="presentation" open="true">
 	<summary>
-		<h2>
-			👋 Presentation
-		</h2>
+		👋 Presentation
 	</summary>
 	<div>
 		<div>
@@ -69,18 +67,14 @@
 
 <details id="skills" open="true">
 	<summary>
-		<h2>
-			💼 Skills
-		</h2>
+		💼 Skills
 	</summary>
 	<div>
 		<ul>
 			<li>
 				<details id="design" open="true">
 					<summary>
-						<h3>
-							Design
-						</h3>
+						Design
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=FFFFFF" alt="Photoshop" />
@@ -97,9 +91,7 @@
 			<li>
 				<details id="frontend" open="true">
 					<summary>
-						<h3>
-							Frontend
-						</h3>
+						Frontend
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
@@ -132,9 +124,7 @@
 			<li>
 				<details id="backend" open="true">
 					<summary>
-						<h3>
-							Backend
-						</h3>
+						Backend
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333333" alt="Firebase" />
@@ -154,9 +144,7 @@
 			<li>
 				<details id="project-documentation">
 					<summary>
-						<h3>
-							Project documentation
-						</h3>
+						Project documentation
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF" alt="Markdown" />
@@ -167,9 +155,7 @@
 			<li>
 				<details id="project-configuration">
 					<summary>
-						<h3>
-							Project configuration
-						</h3>
+						Project configuration
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=FFFFFF" alt="Prettier" />
@@ -186,9 +172,7 @@
 			<li>
 				<details id="task-runners">
 					<summary>
-						<h3>
-							Task runners
-						</h3>
+						Task runners
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="NPM" />
@@ -206,9 +190,7 @@
 			<li>
 				<details id="version-control">
 					<summary>
-						<h3>
-							Version Control
-						</h3>
+						Version Control
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="GIT" />
@@ -223,9 +205,7 @@
 			<li>
 				<details id="project-management">
 					<summary>
-						<h3>
-							Project management
-						</h3>
+						Project management
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logoColor=FFFFFF" alt="Monday" />
@@ -242,9 +222,7 @@
 			<li>
 				<details id="code-editors">
 					<summary>
-						<h3>
-							Code editors
-						<h3>
+						Code editors
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Visual Studio Code-005BA4?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF" alt="Visual Studio Code" />
@@ -261,9 +239,7 @@
 			<li>
 				<details id="browsers">
 					<summary>
-						<h3>
-							Browsers
-						</h3>
+						Browsers
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Internet Explorer-0076D6?style=for-the-badge&logo=InternetExplorer&logoColor=FFFFFF" alt="Internet Explorer" />
@@ -280,9 +256,7 @@
 			<li>
 				<details id="operating-system">
 					<summary>
-						<h3>
-							OS
-						</h3>
+						OS
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF" alt="Windows" />
@@ -295,9 +269,7 @@
 			<li>
 				<details id="learn-share-code">
 					<summary>
-						<h3>
-							Learn and share code
-						</h3>
+						Learn and share code
 					</summary>
 					<p>
 						<a href="https://github.com/beatrizsmerino">
@@ -322,9 +294,7 @@
 			<li>
 				<details id="hobbies">
 					<summary>
-						<h3>
-							Hobbies
-						</h3>
+						Hobbies
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Spotify-000000?&style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760" alt="Spotify" />
@@ -348,9 +318,7 @@
 
 <details id="events" open="true">
 	<summary>
-		<h2>
-			🗓️ Events
-		</h2>
+		🗓️ Events
 	</summary>
 	<div>
 		<h3>
@@ -397,9 +365,7 @@
 
 <details id="stats" open="true">
 	<summary>
-		<h2>
-			📊 Stats
-		</h2>
+		📊 Stats
 	</summary>
 	<div>
 		<p>
