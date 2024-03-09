@@ -6,7 +6,7 @@
 		<br>
 		<span>
 			<a href="https://git.io/typing-svg">
-				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADBB&center=true&vCenter=true&random=false&width=380&height=30&lines=Welcome+to+my+GitHub+profile+%F0%9F%8F%A0;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++I'm+Beatriz+Sope%C3%B1a+Merino;%F0%9F%96%A5%EF%B8%8F+Web+Developer;%F0%9F%8E%A8+Graphic+Designer;Thank+you+%F0%9F%8E%8A+for+visiting+me" alt="Typing SVG" />
+				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADBB&center=true&vCenter=true&random=false&width=380&height=30&lines=Welcome+to+my+GitHub+profile+%F0%9F%8F%A0;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++I'm+Beatriz+Sope%C3%B1a+Merino;%F0%9F%96%A5%EF%B8%8F+Web+Developer;%F0%9F%8E%A8+Graphic+Designer;Thank+you+%F0%9F%8E%8A+for+visiting+me" alt="I am Beatriz Sopeña Merino, Frontend developer and Graphic Designer" />
 			</a>
 		</span>
 	</h1>
@@ -48,9 +48,7 @@
 
 <details id="presentation" open="true">
 	<summary>
-		<h2>
-			👋 Presentation
-		</h2>
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=👋_Presentation" alt="Presentation" />
 	</summary>
 	<div>
 		<div>
@@ -69,18 +67,14 @@
 
 <details id="skills" open="true">
 	<summary>
-		<h2>
-			💼 Skills
-		</h2>
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=💼_Skills" alt="Skills" />
 	</summary>
 	<div>
 		<ul>
 			<li>
 				<details id="design" open="true">
 					<summary>
-						<h3>
-							Design
-						</h3>
+						Design
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=FFFFFF" alt="Photoshop" />
@@ -97,9 +91,7 @@
 			<li>
 				<details id="frontend" open="true">
 					<summary>
-						<h3>
-							Frontend
-						</h3>
+						Frontend
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
@@ -132,9 +124,7 @@
 			<li>
 				<details id="backend" open="true">
 					<summary>
-						<h3>
-							Backend
-						</h3>
+						Backend
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=333333" alt="Firebase" />
@@ -154,9 +144,7 @@
 			<li>
 				<details id="project-documentation">
 					<summary>
-						<h3>
-							Project documentation
-						</h3>
+						Project documentation
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF" alt="Markdown" />
@@ -167,9 +155,7 @@
 			<li>
 				<details id="project-configuration">
 					<summary>
-						<h3>
-							Project configuration
-						</h3>
+						Project configuration
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=FFFFFF" alt="Prettier" />
@@ -186,9 +172,7 @@
 			<li>
 				<details id="task-runners">
 					<summary>
-						<h3>
-							Task runners
-						</h3>
+						Task runners
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="NPM" />
@@ -206,9 +190,7 @@
 			<li>
 				<details id="version-control">
 					<summary>
-						<h3>
-							Version Control
-						</h3>
+						Version Control
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="GIT" />
@@ -223,9 +205,7 @@
 			<li>
 				<details id="project-management">
 					<summary>
-						<h3>
-							Project management
-						</h3>
+						Project management
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logoColor=FFFFFF" alt="Monday" />
@@ -242,9 +222,7 @@
 			<li>
 				<details id="code-editors">
 					<summary>
-						<h3>
-							Code editors
-						<h3>
+						Code editors
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Visual Studio Code-005BA4?style=for-the-badge&logo=Visual+Studio+Code&logoColor=FFFFFF" alt="Visual Studio Code" />
@@ -261,9 +239,7 @@
 			<li>
 				<details id="browsers">
 					<summary>
-						<h3>
-							Browsers
-						</h3>
+						Browsers
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Internet Explorer-0076D6?style=for-the-badge&logo=InternetExplorer&logoColor=FFFFFF" alt="Internet Explorer" />
@@ -280,9 +256,7 @@
 			<li>
 				<details id="operating-system">
 					<summary>
-						<h3>
-							OS
-						</h3>
+						OS
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF" alt="Windows" />
@@ -295,9 +269,7 @@
 			<li>
 				<details id="learn-share-code">
 					<summary>
-						<h3>
-							Learn and share code
-						</h3>
+						Learn and share code
 					</summary>
 					<p>
 						<a href="https://github.com/beatrizsmerino">
@@ -322,9 +294,7 @@
 			<li>
 				<details id="hobbies">
 					<summary>
-						<h3>
-							Hobbies
-						</h3>
+						Hobbies
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Spotify-000000?&style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760" alt="Spotify" />
@@ -348,9 +318,7 @@
 
 <details id="events" open="true">
 	<summary>
-		<h2>
-			🗓️ Events
-		</h2>
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=🗓️_Events" alt="Events" />
 	</summary>
 	<div>
 		<h3>
@@ -397,9 +365,7 @@
 
 <details id="stats" open="true">
 	<summary>
-		<h2>
-			📊 Stats
-		</h2>
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=📊_Stats" alt="Stats" />
 	</summary>
 	<div>
 		<p>
@@ -428,15 +394,15 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 2,069 Contributions in the Year 2024
+> 🏆 2,224 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -447,21 +413,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3523 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-🌆 Daytime                6157 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-🌃 Evening                8411 commits        ████████░░░░░░░░░░░░░░░░░   30.95 % 
-🌙 Night                  9085 commits        ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌞 Morning                3526 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌆 Daytime                6232 commits        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+🌃 Evening                8562 commits        ████████░░░░░░░░░░░░░░░░░   31.21 % 
+🌙 Night                  9116 commits        ████████░░░░░░░░░░░░░░░░░   33.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4820 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Tuesday                  3715 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Wednesday                4449 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Thursday                 4177 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Friday                   3806 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Saturday                 2636 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Sunday                   3573 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Monday                   4831 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Tuesday                  3716 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Wednesday                4599 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Thursday                 4251 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Friday                   3829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Saturday                 2637 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Sunday                   3573 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 ```
 
 
@@ -471,22 +437,24 @@ Sunday                   3573 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 51 mins       ██████████████░░░░░░░░░░░   54.77 % 
-Other                    2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+YAML                     10 hrs 7 mins       █████████████░░░░░░░░░░░░   50.70 % 
+Vue.js                   4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nuxt-course              10 hrs 42 mins      █████████████████████████   100.00 % 
-gulp-compiler            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-vue-gh-pages             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+nuxt-course              10 hrs 10 mins      █████████████░░░░░░░░░░░░   51.02 % 
+vue-gh-pages             2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+beatrizsmerino           2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+vue-editor               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+vue-users                1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 💻 Operating System: 
-Mac                      10 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
