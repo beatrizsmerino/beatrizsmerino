@@ -48,7 +48,7 @@
 
 <details id="presentation" open="true">
 	<summary>
-		👋 Presentation
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=👋_Presentation" alt="Presentation" />
 	</summary>
 	<div>
 		<div>
@@ -67,7 +67,7 @@
 
 <details id="skills" open="true">
 	<summary>
-		💼 Skills
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=💼_Skills" alt="Skills" />
 	</summary>
 	<div>
 		<ul>
@@ -318,7 +318,7 @@
 
 <details id="events" open="true">
 	<summary>
-		🗓️ Events
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=🗓️_Events" alt="Events" />
 	</summary>
 	<div>
 		<h3>
@@ -365,7 +365,7 @@
 
 <details id="stats" open="true">
 	<summary>
-		📊 Stats
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=📊_Stats" alt="Stats" />
 	</summary>
 	<div>
 		<p>
