@@ -55,7 +55,7 @@
 			<p>
 				Welcome to my profile!
 				<br>
-				I'm Beatriz Sopeña Merino, Fullstack web developer and grafic designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15"> Madrid, Spain.
+				I'm Beatriz Sopeña Merino, 💻 Fullstack web developer and 🎨 grafic designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15"> Madrid, Spain.
 				<br>
 				Currently, I am working from home for a company as <strong>Senior Frontend Developer</strong> and colaborate in other projects as a freelance.
 				<br>
