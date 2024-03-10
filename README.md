@@ -14,8 +14,8 @@
 
 <nav>
 	<p align="center">
-		<a href="#presentation">
-			Presentation
+		<a href="#profile">
+			Profile
 		</a>
 		|
 		<a href="#skills">
@@ -46,20 +46,20 @@
     </p>
 </nav>
 
-<details id="presentation" open="true">
+<details id="profile" open="true">
 	<summary>
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=👋_Presentation" alt="Presentation" />
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=👩‍💻_Profile" alt="Profile" />
 	</summary>
 	<div>
 		<div>
 			<p>
 				Welcome to my profile!
 				<br>
-				I'm Beatriz Sopeña Merino, Fullstack web developer and grafic designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15"> Madrid, Spain.
+				I am Beatriz Sopeña Merino, 💻 Website Developer and 🎨 Graphic Designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15"> Madrid, Spain.
 				<br>
-				Currently, I am working from home for a company as <strong>Senior Frontend Developer</strong> and colaborate in other projects as a freelance.
+				Currently, I work from home for a company as a 💼 <strong>Senior Frontend Developer</strong> and sometimes I am also involved in several freelance projects.
 				<br>
-				I am passionate about learning and sharing my knowledge with others. In my free time I participate in open source projects as <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>, you will always see me doing a course and learning something new. When I am not developing, I watch movies and series, play with the playstation or try to do some sport.
+				I have a strong passion for continuous 🎓 <strong>learning and sharing</strong> my expertise with others. In my free time, I contribute to open source projects like <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>, you will always find me taking a course or diving into something new to enhance my skills. When I am not coding or designing, I enjoy watching 🎬 movies and series, 🎮 playing video games or 🥾 hiking.
 			</p>
 		</div>
 	</div>
