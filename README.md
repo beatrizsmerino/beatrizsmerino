@@ -48,7 +48,7 @@
 
 <details id="profile" open="true">
 	<summary>
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=👋_Profile" alt="Profile" />
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=👩‍💻_Profile" alt="Profile" />
 	</summary>
 	<div>
 		<div>
