@@ -57,9 +57,9 @@
 				<br>
 				I am Beatriz Sopeña Merino, 💻 Website Developer and 🎨 Graphic Designer from <img src="./README/images/icons/flag-es.svg" alt="Spain" width="15"> Madrid, Spain.
 				<br>
-				Currently, I work from home for a company as a <strong>Senior Frontend Developer</strong> and sometimes I am also involved in several freelance projects.
+				Currently, I work from home for a company as a 💼 <strong>Senior Frontend Developer</strong> and sometimes I am also involved in several freelance projects.
 				<br>
-				I have a strong passion for continuous learning and sharing my expertise with others. In my free time, I contribute to open source projects like <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>, you will always find me taking a course or diving into something new to enhance my skills. When I am not coding or designing, I enjoy watching movies and series, playing video games or hiking.
+				I have a strong passion for continuous 🎓 learning and sharing my expertise with others. In my free time, I contribute to open source projects like <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>, you will always find me taking a course or diving into something new to enhance my skills. When I am not coding or designing, I enjoy watching 🎬 movies and series, 🎮 playing video games or 🥾 hiking.
 			</p>
 		</div>
 	</div>
