@@ -6,7 +6,7 @@
 		<br>
 		<span>
 			<a href="https://git.io/typing-svg">
-				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADBB&center=true&vCenter=true&random=false&width=380&height=30&lines=Welcome+to+my+GitHub+profile+%F0%9F%8F%A0;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++I'm+Beatriz+Sope%C3%B1a+Merino;%F0%9F%96%A5%EF%B8%8F+Frontend+Developer;%F0%9F%8E%A8+Graphic+Designer;Thank+you+%F0%9F%8E%8A+for+visiting+me" alt="I am Beatriz Sopeña Merino, Frontend developer and Graphic Designer" />
+				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADBB&center=true&vCenter=true&random=false&width=380&height=30&lines=Welcome+to+my+GitHub+profile+%F0%9F%8F%A0;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++I'm+Beatriz+Sope%C3%B1a+Merino;%F0%9F%96%A5%EF%B8%8F+Frontend+Developer;%F0%9F%8E%A8+Graphic+Designer;Thank+you+%F0%9F%8E%8A+for+visiting+me" alt="I am Beatriz Sopeña Merino, Frontend Developer and Graphic Designer" />
 			</a>
 		</span>
 	</h1>
