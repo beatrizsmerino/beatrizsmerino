@@ -208,10 +208,14 @@
 						Project management
 					</summary>
 					<p>
-						<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logoColor=FFFFFF" alt="Monday" />
+						<img src="https://img.shields.io/badge/-Microsoft Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=FFFFFF" alt="Microsoft Teams" />
 						<img src="https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=Skype&logoColor=FFFFFF" alt="Skype" />
+						<br>
+						<img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" />
 						<img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack" />
 						<br>
+						<img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFFFFF" alt="Jira" />
+						<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logoColor=FFFFFF" alt="Monday" />
 						<img src="https://img.shields.io/badge/-Trello-2D70C1?style=for-the-badge&logo=Trello&logoColor=FFFFFF" alt="Trello" />
 						<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=FFFFFF" alt="Excel" />
 						<br>
