@@ -14,8 +14,8 @@
 
 <nav>
 	<p align="center">
-		<a href="#presentation">
-			Presentation
+		<a href="#profile">
+			Profile
 		</a>
 		|
 		<a href="#skills">
@@ -46,9 +46,9 @@
     </p>
 </nav>
 
-<details id="presentation" open="true">
+<details id="profile" open="true">
 	<summary>
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=👋_Presentation" alt="Presentation" />
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=👋_Profile" alt="Profile" />
 	</summary>
 	<div>
 		<div>
