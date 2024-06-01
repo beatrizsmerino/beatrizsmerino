@@ -400,7 +400,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C148%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
@@ -441,18 +441,16 @@ Sunday                   4047 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Vue.js                   8 mins              ██████████████████░░░░░░░   70.19 % 
-JavaScript               3 mins              ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-superfos-innovation      12 mins             ████████████████████████░   97.22 % 
-vue-editor               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
