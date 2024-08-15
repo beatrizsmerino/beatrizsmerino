@@ -400,11 +400,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C212%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
+ > 
+> 🏆 3,223 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -439,21 +441,16 @@ Sunday                   4182 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-YAML                     3 hrs 6 mins        ████████████████████████░   97.79 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-crcanine                 2 hrs 33 mins       ████████████████████░░░░░   80.52 % 
-beatrizsmerino           28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-vue-users                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-vue-todolist             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-vue-gh-pages             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
