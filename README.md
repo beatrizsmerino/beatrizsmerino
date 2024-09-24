@@ -176,6 +176,7 @@
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="NPM" />
+						<img src="https://img.shields.io/badge/-NVM-F4DD4B?style=for-the-badge&logo=nvm&logoColor=000000" alt="NVM" />
 						<img src="https://img.shields.io/badge/-Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=333333" alt="Homebrew" />
 						<br>
 						<img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" alt="Bash" />
