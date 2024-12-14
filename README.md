@@ -407,6 +407,8 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
+> 🏆 6,013 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -440,17 +442,16 @@ Sunday                   6693 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-merceria-raquel          14 mins             ████████████████████░░░░░   79.28 % 
-vue-gh-pages             3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
