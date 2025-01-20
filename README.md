@@ -401,7 +401,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
@@ -442,20 +442,16 @@ Sunday                   6136 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Sass                     1 hr 32 mins        ████████████████████████░   96.14 % 
-SCSS                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-crcanine                 1 hr 31 mins        ████████████████████████░   95.61 % 
-validation-form          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-merceria-raquel          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-nuxt-course              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
