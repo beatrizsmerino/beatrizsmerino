@@ -401,11 +401,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,084 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -440,19 +442,16 @@ Sunday                   6876 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               12 mins             ██████████████████░░░░░░░   70.28 % 
-Bash                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Vue.js                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nuxt-course              17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
