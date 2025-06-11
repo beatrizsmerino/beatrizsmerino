@@ -6,7 +6,7 @@
 		<br>
 		<span>
 			<a href="https://git.io/typing-svg">
-				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADBB&center=true&vCenter=true&random=false&width=380&height=30&lines=Welcome+to+my+GitHub+profile+🏠;👩🏻‍💻+I'm+Beatriz+Sopeña+Merino;🖥️+Frontend+Developer;🎨+Graphic+Designer;Thank+you+🎊+for+visiting+me" alt="I am Beatriz Sopeña Merino, Frontend Developer and Graphic Designer" />
+				<img src="./README/images/readme-typing-svg.demolab/welcome.svg" alt="I am Beatriz Sopeña Merino, Frontend Developer and Graphic Designer" />
 			</a>
 		</span>
 	</h1>
@@ -48,7 +48,7 @@
 
 <details id="profile" open="true">
 	<summary>
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=👩‍💻_Profile" alt="Profile" />
+		<img src="./README/images/readme-typing-svg.demolab/profile.svg" alt="Profile" />
 	</summary>
 	<div>
 		<div>
@@ -67,7 +67,7 @@
 
 <details id="skills" open="true">
 	<summary>
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=💼_Skills" alt="Skills" />
+		<img src="./README/images/readme-typing-svg.demolab/skills.svg" alt="Skills" />
 	</summary>
 	<div>
 		<ul>
@@ -323,7 +323,7 @@
 
 <details id="events" open="true">
 	<summary>
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=🗓️_Events" alt="Events" />
+		<img src="./README/images/readme-typing-svg.demolab/events.svg" alt="Events" />
 	</summary>
 	<div>
 		<h3>
@@ -370,7 +370,7 @@
 
 <details id="stats" open="true">
 	<summary>
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=00ADBB&vCenter=true&repeat=false&random=false&width=250&height=26&lines=📊_Stats" alt="Stats" />
+		<img src="./README/images/readme-typing-svg.demolab/stats.svg" alt="Stats" />
 	</summary>
 	<div>
 		<p>
