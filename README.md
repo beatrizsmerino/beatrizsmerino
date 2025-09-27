@@ -442,16 +442,18 @@ Sunday                   6908 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               35 mins             ███████████████████░░░░░░   75.35 % 
+JSON                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+crcanine                 46 mins             █████████████████████████   99.44 % 
+validation-form          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
