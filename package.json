@@ -1,9 +1,21 @@
 {
-	"version": "2.9.2",
+	"version": "2.10.0",
 	"name": "beatrizsmerino",
 	"description": "Main repository to describe the GitHub profile",
 	"author": "beatrizsmerino@gmail.com",
 	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/beatrizsmerino/beatrizsmerino.git"
+	},
+	"bugs": {
+		"url": "https://github.com/beatrizsmerino/beatrizsmerino/issues"
+	},
+	"keywords": [
+		"github",
+		"profile",
+		"readme"
+	],
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
