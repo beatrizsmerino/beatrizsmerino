@@ -384,8 +384,8 @@
 			</a>
     	</p>
 		<p>
-		    <a href="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=white&dates=ffffff80">
-    			<img src="https://streak-stats.demolab.com?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=aac8e4&dates=aac8e4"
+		    <a href="https://github-readme-streak-stats-eight.vercel.app?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=white&dates=ffffff80">
+    			<img src="https://github-readme-streak-stats-eight.vercel.app?user=beatrizsmerino&theme=vue-dark&sideNums=white&currStreakNum=white&fire=aac8e4&dates=aac8e4"
     				alt="Beatriz's GitHub Streak Stats"/>
     		</a>
 		</p>
