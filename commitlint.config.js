@@ -8,5 +8,9 @@ export default {
 			"always",
 			10000,
 		],
+		"footer-leading-blank": [
+			0,
+			"always",
+		],
 	},
 };
