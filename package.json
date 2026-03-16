@@ -2,7 +2,11 @@
 	"version": "2.12.1",
 	"name": "beatrizsmerino",
 	"description": "Main repository to describe the GitHub profile",
-	"author": "beatrizsmerino@gmail.com",
+	"author": {
+		"name": "Beatriz Sopeña Merino",
+		"email": "beatrizsmerino@gmail.com",
+		"url": "https://github.com/beatrizsmerino"
+	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
