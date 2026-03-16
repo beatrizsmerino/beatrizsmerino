@@ -3,7 +3,7 @@
 	"name": "beatrizsmerino",
 	"description": "Main repository to describe the GitHub profile",
 	"author": "beatrizsmerino@gmail.com",
-	"license": "ISC",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/beatrizsmerino/beatrizsmerino.git"
