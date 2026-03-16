@@ -310,6 +310,9 @@
 						<a href="https://codesandbox.io/u/beatrizsmerino">
 							<img src="https://img.shields.io/badge/-CodeSandBox-204056?style=for-the-badge&logo=CodeSandBox&logoColor=FFFFFF" alt="CodeSandBox" />
 						</a>
+						<a href="https://stackblitz.com/@beatrizsmerino">
+							<img src="https://img.shields.io/badge/-StackBlitz-1269D3?style=for-the-badge&logo=StackBlitz&logoColor=FFFFFF" alt="StackBlitz" />
+						</a>
 						<br>
 						<img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=Udemy&logoColor=FFFFFF" alt="Udemy" />
 						<a href="https://stackoverflow.com/users/10855837/beatrizsmerino">
