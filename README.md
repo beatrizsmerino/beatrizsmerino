@@ -204,6 +204,7 @@
 						<img src="https://img.shields.io/badge/-Git Flow-0288A6?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git Flow" />
 						<br>
 						<img src="https://img.shields.io/badge/-Conventional Commits-FE5196?style=for-the-badge&logo=Conventional+Commits&logoColor=FEFEFE" alt="Conventional Commits" />
+						<img src="https://img.shields.io/badge/-GitHub Actions-000000?style=for-the-badge&logo=GitHub+Actions&logoColor=FFFFFF" alt="GitHub Actions" />
 						<br>
 						<img src="https://img.shields.io/badge/-SourceTree-0047B3?style=for-the-badge&logo=Atlassian&logoColor=FFFFFF" alt="SourceTree" />
 					</p>
