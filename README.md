@@ -249,6 +249,20 @@
 				</details>
 			</li>
 			<li>
+				<details id="ai-tools">
+					<summary>
+						AI Tools
+					</summary>
+					<p>
+						<img src="https://img.shields.io/badge/-Claude Code-D97757?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" alt="Claude Code" />
+						<img src="https://img.shields.io/badge/-GitHub Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF" alt="GitHub Copilot" />
+						<br>
+						<img src="https://img.shields.io/badge/-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="ChatGPT" />
+						<img src="https://img.shields.io/badge/-Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=FFFFFF" alt="Warp" />
+					</p>
+				</details>
+			</li>
+			<li>
 				<details id="browsers">
 					<summary>
 						Browsers
