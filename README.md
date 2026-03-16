@@ -273,6 +273,7 @@
 					<p>
 						<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF" alt="Windows" />
 						<img src="https://img.shields.io/badge/-Mac-999999?style=for-the-badge&logo=apple&logoColor=FFFFFF" alt="Apple" />
+						<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000" alt="Linux" />
 						<br>
 						<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF" alt="VirtualBox" />
 					</p>
