@@ -1,6 +1,7 @@
 {
 	"version": "2.12.1",
 	"name": "beatrizsmerino",
+	"private": true,
 	"description": "Main repository to describe the GitHub profile",
 	"author": {
 		"name": "Beatriz Sopeña Merino",
