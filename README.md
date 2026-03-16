@@ -111,6 +111,7 @@
 						<br>
 						<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=FFFFFF" alt="Vuejs" />
 						<img src="https://img.shields.io/badge/-Vuex-3FB280?style=for-the-badge&logo=Vuex&logoColor=FFFFFF" alt="Vuex" />
+						<img src="https://img.shields.io/badge/-Pinia-FFD859?style=for-the-badge&logo=Pinia&logoColor=000000" alt="Pinia" />
 						<img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=FFFFFF" alt="Nuxtjs" />
 						<img src="https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=FFFFFF" alt="Vuetify" />
 						<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=FFFFFF" alt="Bulma" />
