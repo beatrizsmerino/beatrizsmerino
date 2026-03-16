@@ -228,6 +228,7 @@
 						<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=FFFFFF" alt="Excel" />
 						<br>
 						<img src="https://img.shields.io/badge/-Hootsuite-143059?style=for-the-badge&logo=Hootsuite&logoColor=FFFFFF" alt="Hootsuite" />
+						<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF" alt="Notion" />
 					</p>
 				</details>
 			</li>
