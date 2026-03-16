@@ -167,6 +167,11 @@
 						<img src="https://img.shields.io/badge/-stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=FFFFFF" alt="Stylelint" />
 						<br>
 						<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=333333" alt="Webpack" />
+						<img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=FFFFFF" alt="Vite" />
+						<br>
+						<img src="https://img.shields.io/badge/-Commitlint-FA6673?style=for-the-badge&logoColor=FFFFFF" alt="Commitlint" />
+						<img src="https://img.shields.io/badge/-Husky-A8B1FF?style=for-the-badge&logoColor=FFFFFF" alt="Husky" />
+						<img src="https://img.shields.io/badge/-lint--staged-4B32C3?style=for-the-badge&logoColor=FFFFFF" alt="lint-staged" />
 					</p>
 				</details>
 			</li>
