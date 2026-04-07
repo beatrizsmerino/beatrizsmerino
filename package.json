@@ -25,6 +25,7 @@
 	"type": "module",
 	"scripts": {
 		"install:clean": "rm -rf node_modules package-lock.json",
+		"postinstall": "npm run lint",
 		"prepare": "husky",
 		"prettier:fix": "prettier --write \"./**/*.{json,yml,yaml,js,cjs,mjs}\"",
 		"lint": "npm run prettier:fix && true"
