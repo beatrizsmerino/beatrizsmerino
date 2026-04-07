@@ -90,7 +90,6 @@ module.exports = {
 		],
 		"id-match": 2,
 		"implicit-arrow-linebreak": 2,
-		"import/no-named-as-default": 0,
 		"indent": [2, "tab"],
 		"init-declarations": 2,
 		"jsx-quotes": [2, "prefer-double"],
