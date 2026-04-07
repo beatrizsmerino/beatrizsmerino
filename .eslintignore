@@ -4,8 +4,6 @@
 
 # FOLDERS
 .git
-.nuxt
-dist
 
 # FILES
 .gitignore
