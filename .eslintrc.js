@@ -4,15 +4,7 @@ module.exports = {
 		"browser": true,
 		"node": true,
 	},
-	"extends": ["prettier", "eslint:recommended", "plugin:vue/recommended", "plugin:json/recommended"],
-	"overrides": [
-		{
-			"files": ["*.vue"],
-			"rules": {
-				"indent": "off",
-			},
-		},
-	],
+	"extends": ["prettier", "eslint:recommended", "plugin:json/recommended"],
 	"parserOptions": {
 		"ecmaFeatures": {
 			"jsx": true,
@@ -22,7 +14,7 @@ module.exports = {
 		"requireConfigFile": false,
 		"sourceType": "module",
 	},
-	"plugins": ["vue", "prettier", "json"],
+	"plugins": ["prettier", "json"],
 	"root": true,
 	"rules": {
 		"accessor-pairs": 2,
