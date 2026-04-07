@@ -25,7 +25,7 @@
 	"type": "module",
 	"scripts": {
 		"prepare": "husky",
-		"prettier:fix": "prettier --write \"./**/*.{css,scss,sass,json,yml,yaml,js,cjs,mjs}\"",
+		"prettier:fix": "prettier --write \"./**/*.{json,yml,yaml,js,cjs,mjs}\"",
 		"lint": "npm run prettier:fix && true"
 	},
 	"devDependencies": {
