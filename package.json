@@ -27,8 +27,8 @@
 		"install:clean": "rm -rf node_modules package-lock.json",
 		"postinstall": "npm run lint",
 		"prepare": "husky",
-		"prettier:fix": "prettier --write \"./**/*.{json,yml,yaml,js,cjs,mjs}\"",
-		"eslint:fix": "eslint \"./**/*.{json,js,cjs,mjs}\" --fix --ignore-path .eslintignore",
+		"prettier:fix": "prettier --write './**/*.{json,yml,yaml,js,cjs,mjs}'",
+		"eslint:fix": "eslint './**/*.{json,js,cjs,mjs}' --fix --ignore-path .eslintignore",
 		"lint": "npm run prettier:fix && npm run eslint:fix"
 	},
 	"devDependencies": {
