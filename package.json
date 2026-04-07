@@ -24,7 +24,9 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
-		"prepare": "husky"
+		"prepare": "husky",
+		"prettier:fix": "prettier --write \"./**/*.{css,scss,sass,json,js,cjs,mjs}\"",
+		"lint": "npm run prettier:fix"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^20.5.0",
