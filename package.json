@@ -26,7 +26,7 @@
 	"scripts": {
 		"prepare": "husky",
 		"prettier:fix": "prettier --write \"./**/*.{css,scss,sass,json,js,cjs,mjs}\"",
-		"lint": "npm run prettier:fix"
+		"lint": "npm run prettier:fix && true"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^20.5.0",
