@@ -28,6 +28,64 @@ The project includes automated workflows via [GitHub Actions](https://github.com
 [![GitHub Readme Stats](https://img.shields.io/badge/-GitHub%20Readme%20Stats-41B883?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)
 [![WakaTime](https://img.shields.io/badge/-WakaTime-FF6347?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/)
 
+## 🚀 Commands
+
+### Install dependencies
+
+Install all dependencies listed in `package.json`.
+
+```bash
+npm install
+```
+
+### Clean install dependencies
+
+Remove `node_modules` and `package-lock.json` to reinstall from scratch.
+
+```bash
+npm run install:clean
+```
+
+### Lint after install
+
+Runs automatically after `npm install` to run `npm run lint` on all project files.
+
+```bash
+npm run postinstall
+```
+
+### Set up Husky git hooks
+
+Runs automatically after `postinstall` to enable `pre-commit` and `commit-msg` hooks of [Husky](https://typicode.github.io/husky/).
+
+```bash
+npm run prepare
+```
+
+### Lints and fixes files
+
+Run [Prettier](https://prettier.io/) (`prettier:fix`) and [ESLint](https://eslint.org/) (`eslint:fix`) to format and lint all project files.
+
+```bash
+npm run lint
+```
+
+### Format files with Prettier
+
+Format JSON, YAML and JS files with [Prettier](https://prettier.io/).
+
+```bash
+npm run prettier:fix
+```
+
+### Lint and fix files with ESLint
+
+Lint and fix JSON and JS files with [ESLint](https://eslint.org/).
+
+```bash
+npm run eslint:fix
+```
+
 ## 📄 License
 
 This project is licensed under the `MIT` License, which allows free use, modification and distribution. See [LICENSE](LICENSE) for details.
