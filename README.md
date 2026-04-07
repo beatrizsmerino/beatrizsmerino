@@ -160,7 +160,7 @@
 					</summary>
 					<p>
 						<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=FFFFFF" alt="Prettier" />
-						<img src="https://img.shields.io/badge/-EditorConfig-333333?style=for-the-badge&logo=EditorConfig&logoColor=FEFEFE" alt="EditorConfig" />
+						<img src="https://img.shields.io/badge/-EditorConfig-FEFEFE?style=for-the-badge&logo=editorconfig&logoColor=black" alt="EditorConfig" />
 						<br>
 						<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FFFFFF" alt="ESLint" />
 						<img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000" alt="Babel" />

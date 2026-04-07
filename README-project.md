@@ -8,6 +8,26 @@ The profile includes coding stats powered by [WakaTime](https://github.com/wakat
 
 The project includes automated workflows via [GitHub Actions](https://github.com/features/actions) for keeping stats up to date, along with code quality configuration using [Prettier](https://prettier.io/), [ESLint](https://eslint.org/) and [Commitlint](https://commitlint.js.org/).
 
+## 🏗️ Developed with
+
+![Bash](https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![NVM](https://img.shields.io/badge/NVM-f4dd4b?style=for-the-badge&logo=npm&logoColor=333333)](https://github.com/nvm-sh/nvm)
+[![NODE](https://img.shields.io/badge/-NODE-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/es/)
+[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://docs.npmjs.com/)
+
+[![EditorConfig](https://img.shields.io/badge/-EditorConfig-FEFEFE?style=for-the-badge&logo=editorconfig&logoColor=black)](https://editorconfig.org/)
+[![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=FFFFFF)](https://prettier.io/)
+[![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+[![Husky](https://img.shields.io/badge/-Husky-A8B1FF?style=for-the-badge)](https://typicode.github.io/husky/)
+[![Commitlint](https://img.shields.io/badge/-Commitlint-FA6673?style=for-the-badge)](https://commitlint.js.org/)
+[![Conventional Commits](https://img.shields.io/badge/-Conventional%20Commits-FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=FEFEFE)](https://www.conventionalcommits.org)
+[![lint-staged](https://img.shields.io/badge/-lint--staged-4B32C3?style=for-the-badge)](https://github.com/lint-staged/lint-staged)
+
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)](https://github.com/features/actions)
+[![Vercel](https://img.shields.io/badge/-Vercel-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![GitHub Readme Stats](https://img.shields.io/badge/-GitHub%20Readme%20Stats-41B883?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime](https://img.shields.io/badge/-WakaTime-FF6347?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/)
+
 ## 📄 License
 
 This project is licensed under the `MIT` License, which allows free use, modification and distribution. See [LICENSE](LICENSE) for details.
