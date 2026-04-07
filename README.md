@@ -506,3 +506,7 @@ Sass                     1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+## 📖 Project Documentation
+
+See [README-project.md](README-project.md) for project setup, available commands and technical details.
