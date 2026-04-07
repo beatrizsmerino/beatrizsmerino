@@ -26,12 +26,13 @@
 	"scripts": {
 		"prepare": "husky",
 		"prettier:fix": "prettier --write \"./**/*.{css,scss,sass,json,js,cjs,mjs}\"",
-		"lint": "npm run prettier:fix"
+		"lint": "npm run prettier:fix && true"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^20.5.0",
 		"@commitlint/config-conventional": "^20.5.0",
 		"husky": "^9.1.7",
+		"lint-staged": "^16.4.0",
 		"prettier": "^3.8.1"
 	},
 	"engines": {
