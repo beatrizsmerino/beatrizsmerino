@@ -86,6 +86,13 @@ Lint and fix JSON and JS files with [ESLint](https://eslint.org/).
 npm run eslint:fix
 ```
 
+## 🔗 References
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — Dynamically generated GitHub stats for READMEs
+- [WakaTime](https://wakatime.com/) — Coding activity dashboard
+- [Vercel](https://vercel.com/) — Cloud platform hosting the GitHub Readme Stats instance
+- [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) — GitHub Action to update README with WakaTime stats
+
 ## 📄 License
 
 This project is licensed under the `MIT` License, which allows free use, modification and distribution. See [LICENSE](LICENSE) for details.
