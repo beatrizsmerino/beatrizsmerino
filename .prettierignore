@@ -4,7 +4,6 @@
 
 # FOLDERS
 .git
-dist
 
 # FILES
 .gitignore
