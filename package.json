@@ -1,9 +1,14 @@
 {
-	"version": "2.12.1",
+	"version": "2.13.0",
 	"name": "beatrizsmerino",
+	"private": true,
 	"description": "Main repository to describe the GitHub profile",
-	"author": "beatrizsmerino@gmail.com",
-	"license": "ISC",
+	"author": {
+		"name": "Beatriz Sopeña Merino",
+		"email": "beatrizsmerino@gmail.com",
+		"url": "https://github.com/beatrizsmerino"
+	},
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/beatrizsmerino/beatrizsmerino.git"
@@ -19,12 +24,23 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
-		"prepare": "husky"
+		"install:clean": "rm -rf node_modules package-lock.json",
+		"postinstall": "npm run lint",
+		"prepare": "husky",
+		"prettier:fix": "prettier --write './**/*.{json,yml,yaml,js,cjs,mjs}'",
+		"eslint:fix": "eslint './**/*.{json,js,cjs,mjs}' --fix --ignore-path .eslintignore",
+		"lint": "npm run prettier:fix && npm run eslint:fix"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^20.5.0",
 		"@commitlint/config-conventional": "^20.5.0",
-		"husky": "^9.1.7"
+		"eslint": "^8.57.1",
+		"eslint-config-prettier": "^10.1.8",
+		"eslint-plugin-json": "^3.1.0",
+		"eslint-plugin-prettier": "^5.5.5",
+		"husky": "^9.1.7",
+		"lint-staged": "^16.4.0",
+		"prettier": "^3.8.1"
 	},
 	"engines": {
 		"node": "24.14.1",
