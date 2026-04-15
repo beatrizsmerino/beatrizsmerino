@@ -4,3 +4,7 @@
 #   - Binary files (images, fonts, etc.)
 #
 # Add below any extra paths that should not be formatted.
+
+
+# Build output
+dist/
