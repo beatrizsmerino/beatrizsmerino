@@ -4,3 +4,7 @@
 #   - Files with unknown or extensionless types (.gitignore, .editorconfig)
 #
 # Add below any extra paths that should not be linted.
+
+
+# Build output
+dist/
