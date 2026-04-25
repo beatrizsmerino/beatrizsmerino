@@ -1,5 +1,5 @@
 {
-	"version": "2.13.2",
+	"version": "2.13.3",
 	"name": "beatrizsmerino",
 	"private": true,
 	"description": "Main repository to describe the GitHub profile",
@@ -43,7 +43,7 @@
 		"prettier": "^3.8.3"
 	},
 	"engines": {
-		"node": "24.14.1",
-		"npm": "11.11.0"
+		"node": "24.15.0",
+		"npm": "11.12.1"
 	}
 }
