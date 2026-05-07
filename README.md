@@ -427,7 +427,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs%2019%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-243-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-217-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
