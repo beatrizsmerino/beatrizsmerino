@@ -425,13 +425,15 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C912%20hrs%2054%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 3,992 Contributions in the Year 2026
+> 🏆 3,993 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -439,6 +441,54 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22796 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+🌆 Daytime                39251 commits       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌃 Evening                59929 commits       ████████░░░░░░░░░░░░░░░░░   31.96 % 
+🌙 Night                  65538 commits       █████████░░░░░░░░░░░░░░░░   34.95 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   31285 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Tuesday                  24659 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Wednesday                30243 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Thursday                 27078 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Friday                   26831 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Saturday                 21656 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Sunday                   25762 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Other                    5 hrs 8 mins        ████████████░░░░░░░░░░░░░   48.37 % 
+SCSS                     2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Markdown                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Vue                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 22 mins       █████████████░░░░░░░░░░░░   50.57 % 
+Unknown Editor           5 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.43 % 
+
+🐱‍💻 Projects: 
+vue-users                2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+nuxt-course              2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+localhost                2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+mision-marial            1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+vue-todolist             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+
+💻 Operating System: 
+Mac                      10 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
