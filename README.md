@@ -425,6 +425,8 @@
 </details>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2010%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -439,6 +441,50 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                26971 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+🌆 Daytime                46186 commits       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+🌃 Evening                71319 commits       ████████░░░░░░░░░░░░░░░░░   32.21 % 
+🌙 Night                  76923 commits       █████████░░░░░░░░░░░░░░░░   34.74 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   36910 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Tuesday                  29072 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Wednesday                35838 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Thursday                 31711 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   31884 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Saturday                 25363 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Sunday                   30621 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Markdown                 16 mins             ████████████████░░░░░░░░░   64.08 % 
+JavaScript               5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Vue                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+
+🔥 Editors: 
+VS Code                  24 mins             █████████████████████████   99.30 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+
+🐱‍💻 Projects: 
+validation-form          11 mins             ███████████░░░░░░░░░░░░░░   45.30 % 
+rick-and-morty           9 mins              ██████████░░░░░░░░░░░░░░░   38.90 % 
+vue-editor               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+
+💻 Operating System: 
+Mac                      25 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
