@@ -425,9 +425,9 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -456,8 +456,8 @@ Monday                   62825 commits       ████░░░░░░░�
 Tuesday                  49334 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 Wednesday                62240 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 Thursday                 52660 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Friday                   56515 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Saturday                 42316 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Friday                   56514 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Saturday                 42317 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 Sunday                   53295 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 
@@ -468,16 +468,17 @@ Sunday                   53295 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              14 mins             ███████████████████████░░   91.64 % 
+VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+localhost                15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
