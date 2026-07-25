@@ -425,6 +425,8 @@
 </details>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -439,53 +441,14 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                49688 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-🌆 Daytime                83486 commits       █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-🌃 Evening                132701 commits      ████████░░░░░░░░░░░░░░░░░   32.94 % 
-🌙 Night                  137026 commits      █████████░░░░░░░░░░░░░░░░   34.01 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   66810 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Tuesday                  52368 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Wednesday                66211 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Thursday                 55890 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Friday                   60122 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Saturday                 44889 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Sunday                   56611 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Vue                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Sass                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Vue                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Sass                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
