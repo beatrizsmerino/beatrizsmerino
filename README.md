@@ -425,15 +425,15 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C969%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,036 Contributions in the Year 2026
+> 🏆 4,038 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -441,14 +441,62 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                54430 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+🌆 Daytime                91863 commits       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+🌃 Evening                146057 commits      ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌙 Night                  151949 commits      █████████░░░░░░░░░░░░░░░░   34.20 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   73506 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Tuesday                  57721 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Wednesday                73074 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Thursday                 62036 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Friday                   65875 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Saturday                 49882 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Sunday                   62205 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Markdown                 1 hr 14 mins        ███████████████░░░░░░░░░░   58.62 % 
+Bash                     33 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+
+🔥 Editors: 
+Claude Code              1 hr 44 mins        █████████████████████░░░░   82.48 % 
+VS Code                  22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+
+🐱‍💻 Projects: 
+localhost                1 hr 42 mins        ████████████████████░░░░░   81.09 % 
+beatrizsmerino           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+crcanine                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+zsh-autocomplete         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+vue-editor               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+
+💻 Operating System: 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Vue                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Sass                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Vue                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Sass                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
