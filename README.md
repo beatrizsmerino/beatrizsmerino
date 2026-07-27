@@ -425,15 +425,15 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C969%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C975%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,038 Contributions in the Year 2026
+> 🏆 4,050 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -444,21 +444,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                54430 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-🌆 Daytime                91863 commits       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-🌃 Evening                146057 commits      ████████░░░░░░░░░░░░░░░░░   32.87 % 
-🌙 Night                  151949 commits      █████████░░░░░░░░░░░░░░░░   34.20 % 
+🌞 Morning                54842 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+🌆 Daytime                92477 commits       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+🌃 Evening                147215 commits      ████████░░░░░░░░░░░░░░░░░   32.91 % 
+🌙 Night                  152823 commits      █████████░░░░░░░░░░░░░░░░   34.16 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   73506 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Tuesday                  57721 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Wednesday                73074 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Thursday                 62036 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Friday                   65875 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Saturday                 49882 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Sunday                   62205 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Monday                   74024 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Tuesday                  58087 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Wednesday                73622 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Thursday                 62394 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Friday                   66473 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Saturday                 50098 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Sunday                   62659 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 ```
 
 
@@ -468,25 +468,25 @@ Sunday                   62205 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 1 hr 14 mins        ███████████████░░░░░░░░░░   58.62 % 
-Bash                     33 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Markdown                 4 hrs 58 mins       ████████████████░░░░░░░░░   63.36 % 
+Python                   1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-Claude Code              1 hr 44 mins        █████████████████████░░░░   82.48 % 
-VS Code                  22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Claude Code              7 hrs 29 mins       ████████████████████████░   95.30 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🐱‍💻 Projects: 
-localhost                1 hr 42 mins        ████████████████████░░░░░   81.09 % 
-beatrizsmerino           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-crcanine                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-zsh-autocomplete         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-vue-editor               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+localhost                5 hrs 25 mins       █████████████████░░░░░░░░   69.15 % 
+vue-editor               1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+beatrizsmerino           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+crcanine                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+zsh-autocomplete         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
