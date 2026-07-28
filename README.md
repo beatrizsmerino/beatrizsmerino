@@ -425,15 +425,17 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C975%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C813%20hrs%2017%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2020%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,050 Contributions in the Year 2026
+> 🏆 4,060 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -487,6 +489,29 @@ zsh-autocomplete         2 mins              ░░░░░░░░░░░�
 
 💻 Operating System: 
 Mac                      7 hrs 51 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 43 mins (98.39%)
+
+✍️ 758 lines written by AI, 3 lines written by hand (99.61% AI-written)
+
+🔤 179,642,135 Input Tokens, 327,851 Output Tokens
+
+💵 $543.63 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 113 AI Prompts
+
+Sonnet                   786 lines           █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.61% of written lines came from AI
+📚 Verbose Prompter — average 2,965 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
