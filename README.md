@@ -425,9 +425,9 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C835%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C839%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue?style=flat)
 
@@ -443,83 +443,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                58971 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-🌆 Daytime                99402 commits       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-🌃 Evening                158255 commits      ████████░░░░░░░░░░░░░░░░░   32.91 % 
-🌙 Night                  164248 commits      █████████░░░░░░░░░░░░░░░░   34.16 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   79403 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Tuesday                  62530 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Wednesday                79007 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Thursday                 66968 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Friday                   71354 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Saturday                 54120 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Sunday                   67494 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-Markdown                 17 hrs 43 mins      ████████████░░░░░░░░░░░░░   49.62 % 
-Python                   6 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Bash                     5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Text                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Other                    1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-
-🔥 Editors: 
-Claude Code              34 hrs 26 mins      ████████████████████████░   96.39 % 
-VS Code                  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Manual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🐱‍💻 Projects: 
-localhost                30 hrs 22 mins      █████████████████████░░░░   85.00 % 
-vue-editor               1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-beatrizsmerino           1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-journal                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-zsh-scripts              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-💻 Operating System: 
-Mac                      33 hrs              ███████████████████████░░   92.40 % 
-Linux                    2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 35 hrs 23 mins (99.04%)
-
-✍️ 8,356 lines written by AI, 28 lines written by hand (99.67% AI-written)
-
-🔤 1,062,555,116 Input Tokens, 2,893,973 Output Tokens
-
-💵 $3287.56 Estimated AI Cost This Week
-
-🧠 44 AI Sessions, 389 AI Prompts
-
-Sonnet                   7,676 lines         ███████████████████████░░   90.90 % 
-Opus                     467 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Haiku                    301 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Ling                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.67% of written lines came from AI
-📄 Detailed Prompter — average 790 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
