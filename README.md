@@ -425,9 +425,9 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C839%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue?style=flat)
 
@@ -435,7 +435,7 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,149 Contributions in the Year 2026
+> 🏆 4,153 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -443,6 +443,83 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                59382 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+🌆 Daytime                100017 commits      █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+🌃 Evening                159413 commits      ████████░░░░░░░░░░░░░░░░░   32.94 % 
+🌙 Night                  165122 commits      █████████░░░░░░░░░░░░░░░░   34.12 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   79922 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Tuesday                  62896 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Wednesday                79555 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Thursday                 67326 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   71952 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Saturday                 54335 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Sunday                   67948 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Markdown                 19 hrs 57 mins      █████████████░░░░░░░░░░░░   52.12 % 
+Bash                     8 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Python                   5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Text                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+
+🔥 Editors: 
+Claude Code              36 hrs 54 mins      ████████████████████████░   96.35 % 
+VS Code                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Manual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🐱‍💻 Projects: 
+localhost                32 hrs              █████████████████████░░░░   83.57 % 
+beatrizsmerino           3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+journal                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+nvm                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Unknown Project          32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+
+💻 Operating System: 
+Mac                      35 hrs 35 mins      ███████████████████████░░   92.92 % 
+Linux                    2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 37 hrs 57 mins (99.1%)
+
+✍️ 12,677 lines written by AI, 28 lines written by hand (99.78% AI-written)
+
+🔤 1,616,204,348 Input Tokens, 5,022,280 Output Tokens
+
+💵 $4971.36 Estimated AI Cost This Week
+
+🧠 58 AI Sessions, 575 AI Prompts
+
+Sonnet                   11,901 lines        ███████████████████████░░   90.70 % 
+Haiku                    754 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Opus                     467 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.78% of written lines came from AI
+📄 Detailed Prompter — average 1,175 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
