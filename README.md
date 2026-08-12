@@ -429,7 +429,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -470,47 +470,47 @@ Sunday                   72458 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
-JavaScript               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Bash                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-JSON                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Markdown                 2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
+JavaScript               1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+JSON                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Text                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 36 mins       ██████████████████████░░░   86.64 % 
-VS Code                  1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Claude Code              6 hrs 7 mins        █████████████████████░░░░   84.00 % 
+VS Code                  1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 
 🐱‍💻 Projects: 
-localhost                7 hrs 15 mins       ██████████████████░░░░░░░   72.98 % 
-sken-ds                  2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-github-legrand           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+localhost                4 hrs 49 mins       █████████████████░░░░░░░░   66.15 % 
+sken-ds                  2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.85 % 
 beatrizsmerino           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+github-legrand           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 38 mins (97.02%)
+⏱ AI Coding Time: 7 hrs 1 min (96.35%)
 
-✍️ 1,775 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,289 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 192,059,735 Input Tokens, 452,526 Output Tokens
+🔤 165,606,179 Input Tokens, 319,726 Output Tokens
 
-💵 $388.72 Estimated AI Cost This Week
+💵 $334.48 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 83 AI Prompts
+🧠 56 AI Sessions, 66 AI Prompts
 
-Sonnet                   1,804 lines         █████████████████████████   100.00 % 
+Sonnet                   1,317 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 745 characters per prompt
+📄 Detailed Prompter — average 820 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.77% of changed lines were hand-edited
+🚀 High AI Trust — 1.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
