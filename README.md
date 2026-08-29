@@ -425,9 +425,9 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C912%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C919%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue?style=flat)
 
@@ -470,47 +470,48 @@ Sunday                   72363 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 14 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   37.93 % 
-Vue                      7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-TypeScript               6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-YAML                     5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-JavaScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Markdown                 13 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   35.15 % 
+TypeScript               9 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Vue                      8 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+YAML                     2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+JavaScript               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 7 mins       █████████████████████░░░░   85.03 % 
-VS Code                  5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Claude Code              31 hrs 17 mins      ████████████████████░░░░░   81.92 % 
+VS Code                  6 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 
 🐱‍💻 Projects: 
-sken-ds                  36 hrs 46 mins      ████████████████████████░   94.38 % 
-alma-front               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-github-legrand           41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-alma_mockup              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+sken-ds                  37 hrs 14 mins      ████████████████████████░   97.51 % 
+github-legrand           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+alma-front               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+alma_mockup              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    38 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 2 mins (95.08%)
+⏱ AI Coding Time: 35 hrs 44 mins (93.6%)
 
-✍️ 10,046 lines written by AI, 166 lines written by hand (98.37% AI-written)
+✍️ 11,127 lines written by AI, 468 lines written by hand (95.96% AI-written)
 
-🔤 12,969,965 Input Tokens, 3,089,244 Output Tokens
+🔤 13,879,005 Input Tokens, 3,085,962 Output Tokens
 
-💵 $580.28 Estimated AI Cost This Week
+💵 $602.65 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 605 AI Prompts
+🧠 12 AI Sessions, 576 AI Prompts
 
-Sonnet                   11,455 lines        █████████████████████████   100.00 % 
+Sonnet                   12,711 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.37% of written lines came from AI
-📄 Detailed Prompter — average 575 characters per prompt
-🔁 Iterative Prompter — average 43 prompts per session
-🚀 High AI Trust — 4.86% of changed lines were hand-edited
+🤖 AI-Driven — 95.96% of written lines came from AI
+📄 Detailed Prompter — average 678 characters per prompt
+🔁 Iterative Prompter — average 48 prompts per session
+🚀 High AI Trust — 12.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
