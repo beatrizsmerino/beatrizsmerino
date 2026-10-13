@@ -446,21 +446,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                66946 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-🌆 Daytime                113300 commits      █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-🌃 Evening                179408 commits      ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌙 Night                  185879 commits      █████████░░░░░░░░░░░░░░░░   34.07 % 
+🌞 Morning                71654 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+🌆 Daytime                121628 commits      █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+🌃 Evening                192525 commits      ████████░░░░░░░░░░░░░░░░░   32.84 % 
+🌙 Night                  200413 commits      █████████░░░░░░░░░░░░░░░░   34.19 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   90131 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Tuesday                  71092 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Wednesday                89676 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Thursday                 75926 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Friday                   80810 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Saturday                 61407 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Sunday                   76491 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Monday                   96652 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Tuesday                  76382 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Wednesday                96665 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Thursday                 81913 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Friday                   86442 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Saturday                 66226 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Sunday                   81940 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 ```
 
 
@@ -470,49 +470,49 @@ Sunday                   76491 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 22 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   39.22 % 
-JavaScript               8 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Text                     7 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Vue                      6 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Other                    5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Markdown                 17 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   38.61 % 
+Vue                      6 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Other                    5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Text                     5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+TypeScript               4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 🔥 Editors: 
-Claude Code              55 hrs 52 mins      ████████████████████████░   95.66 % 
-VS Code                  2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Claude Code              43 hrs 48 mins      ████████████████████████░   95.64 % 
+VS Code                  1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-github-legrand           13 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-web-prototype            8 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-alma-front-redesign      3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-storybook                3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Shared                   3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+github-legrand           10 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+web-prototype            8 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+alma-front-redesign      3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Shared                   3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+packages                 2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 💻 Operating System: 
-Linux                    58 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 47 mins (98.93%)
+⏱ AI Coding Time: 45 hrs 15 mins (98.8%)
 
-✍️ 37,455 lines written by AI, 13 lines written by hand (99.97% AI-written)
+✍️ 23,624 lines written by AI, 4 lines written by hand (99.98% AI-written)
 
-🔤 123,872,985 Input Tokens, 5,784,997 Output Tokens
+🔤 106,499,163 Input Tokens, 4,184,634 Output Tokens
 
-💵 $1309.82 Estimated AI Cost This Week
+💵 $1081.85 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 1204 AI Prompts
+🧠 16 AI Sessions, 953 AI Prompts
 
-Sonnet                   39,194 lines        █████████████████████████   100.00 % 
+Sonnet                   24,966 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 2,375 characters per prompt
-🔁 Iterative Prompter — average 67 prompts per session
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 2,402 characters per prompt
+🔁 Iterative Prompter — average 60 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
