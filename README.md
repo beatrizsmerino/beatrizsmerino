@@ -425,11 +425,11 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C075%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C082%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-464%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-475%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -446,7 +446,7 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                73253 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+🌞 Morning                73255 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 🌆 Daytime                124064 commits      █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
 🌃 Evening                197027 commits      ████████░░░░░░░░░░░░░░░░░   32.85 % 
 🌙 Night                  205455 commits      █████████░░░░░░░░░░░░░░░░   34.25 % 
@@ -454,7 +454,7 @@
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   98789 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Monday                   98791 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 Tuesday                  78131 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 Wednesday                98829 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 Thursday                 83718 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
@@ -470,47 +470,47 @@ Sunday                   84004 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 6 hrs 56 mins       ███████████████░░░░░░░░░░   61.21 % 
-Other                    2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-JavaScript               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Markdown                 11 hrs 19 mins      █████████████░░░░░░░░░░░░   51.41 % 
+Other                    5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+JavaScript               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Vue                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 1 min        ██████████████████████░░░   88.39 % 
-VS Code                  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Claude Code              20 hrs 15 mins      ███████████████████████░░   92.01 % 
+VS Code                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🐱‍💻 Projects: 
-github-legrand           5 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.65 % 
-web-prototype            3 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.50 % 
-tareas                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-localhost                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-web-prototype-publish    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+github-legrand           5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+web-prototype            3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+github                   2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+alma-front-design        2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+tareas                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 💻 Operating System: 
-Linux                    11 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 51 mins (95.71%)
+⏱ AI Coding Time: 21 hrs 18 mins (96.83%)
 
-✍️ 562 lines written by AI, 30 lines written by hand (94.93% AI-written)
+✍️ 1,420 lines written by AI, 45 lines written by hand (96.93% AI-written)
 
-🔤 5,506,971 Input Tokens, 853,027 Output Tokens
+🔤 14,457,485 Input Tokens, 2,355,961 Output Tokens
 
-💵 $129.32 Estimated AI Cost This Week
+💵 $333.06 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 205 AI Prompts
+🧠 10 AI Sessions, 412 AI Prompts
 
-Sonnet                   566 lines           █████████████████████████   100.00 % 
+Sonnet                   1,455 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.93% of written lines came from AI
-📄 Detailed Prompter — average 685 characters per prompt
-🔁 Iterative Prompter — average 34 prompts per session
-🚀 High AI Trust — 5.07% of changed lines were hand-edited
+🤖 AI-Driven — 96.93% of written lines came from AI
+📄 Detailed Prompter — average 934 characters per prompt
+🔁 Iterative Prompter — average 41 prompts per session
+🚀 High AI Trust — 3.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
