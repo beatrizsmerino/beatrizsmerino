@@ -425,11 +425,11 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C082%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C104%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-475%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-503%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -470,47 +470,47 @@ Sunday                   85016 commits       ████░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 11 hrs 19 mins      █████████████░░░░░░░░░░░░   51.41 % 
-Other                    5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-JavaScript               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Vue                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Markdown                 17 hrs 57 mins      ███████████░░░░░░░░░░░░░░   43.81 % 
+Other                    11 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+TypeScript               5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Vue                      4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Python                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 15 mins      ███████████████████████░░   92.01 % 
-VS Code                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Claude Code              38 hrs 58 mins      ████████████████████████░   95.05 % 
+VS Code                  2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🐱‍💻 Projects: 
-github-legrand           5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-web-prototype            3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-github                   2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-alma-front-design        2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-tareas                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+web-prototype            6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+alma-front-design        6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+localhost                5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+packages                 4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Shared                   3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 💻 Operating System: 
-Linux                    22 hrs              █████████████████████████   100.00 % 
+Linux                    41 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 18 mins (96.83%)
+⏱ AI Coding Time: 40 hrs 16 mins (98.21%)
 
-✍️ 1,420 lines written by AI, 45 lines written by hand (96.93% AI-written)
+✍️ 6,181 lines written by AI, 45 lines written by hand (99.28% AI-written)
 
-🔤 14,457,485 Input Tokens, 2,355,961 Output Tokens
+🔤 30,466,907 Input Tokens, 3,820,117 Output Tokens
 
-💵 $333.06 Estimated AI Cost This Week
+💵 $588.71 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 412 AI Prompts
+🧠 12 AI Sessions, 685 AI Prompts
 
-Sonnet                   1,455 lines         █████████████████████████   100.00 % 
+Sonnet                   6,716 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.93% of written lines came from AI
-📄 Detailed Prompter — average 934 characters per prompt
-🔁 Iterative Prompter — average 41 prompts per session
-🚀 High AI Trust — 3.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.28% of written lines came from AI
+📚 Verbose Prompter — average 1,939 characters per prompt
+🔁 Iterative Prompter — average 57 prompts per session
+🚀 High AI Trust — 3.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
